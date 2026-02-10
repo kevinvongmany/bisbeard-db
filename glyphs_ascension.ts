@@ -8124,7 +8124,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398160",
         "name": "Alter Time",
         "icon": "spell_mage_altertime",
-        "description": "Teaches you: Alter Time.",
+        "description": "Teaches you: Alter Time. \\n Alter Time \\n 2 min cooldown. Alter the fabric of time, causing the caster to return to their current location, their health, mana and buffs when cast a second time, or after 4 sec. Effects negated if the caster dies within before the effect occurs, or moves too far away. Does not work with absorb effects.",
         "quality": "artifact",
         "specs": [
           "ARCANE"
@@ -8134,7 +8134,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398175",
         "name": "Mass Invisibility",
         "icon": "ability_mage_massinvisibility",
-        "description": "Teaches you: Mass Invisibility.",
+        "description": "Teaches you: Mass Invisibility. \\n Mass Invisibility \\n 2 min cooldown. You and your allies within 40 yards instantly become invisible for 5 sec. The effect is cancelled if you perform any actions. While invisibile, you can only see other invisible targets and those who can see invisible.",
         "quality": "artifact",
         "specs": [
           "ARCANE"
@@ -8144,7 +8144,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398187",
         "name": "Shimmer",
         "icon": "spell_arcane_massdispel",
-        "description": "Teaches you: Shimmer.",
+        "description": "Teaches you: Shimmer. \\n Shimmer \\n 15 sec cooldown. Teleports the caster 20 yards forward, unless something is in the way. This ability can be used while casting, but not channeling, and does not trigger a global cooldown. Shares a cooldown with Blink.",
         "quality": "artifact",
         "specs": [
           "ARCANE"
@@ -8154,7 +8154,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398221",
         "name": "Ring of Frost",
         "icon": "spell_frost_ring_of_frost",
-        "description": "Teaches you: Ring of Frost.",
+        "description": "Teaches you: Ring of Frost. \\n Ring of Frost \\n 30 yd range. 40 sec cooldown. 1.5 sec cast. Summons a Ring of Frost at the target location. Enemies entering the ring will become frozen for 6 sec. Lasts 8 sec and has an 8 yard radius.",
         "quality": "artifact",
         "specs": [
           "FROST"
@@ -8196,7 +8196,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180009",
         "name": "Rune of Power",
         "icon": "spell_mage_runeofpower",
-        "description": "Teaches you: Rune of Power.",
+        "description": "Teaches you: Rune of Power. \\n Rune of Power \\n 15 yd range. 1.5 min cooldown. 1.5 sec cast. Places a Rune of Power on the ground on the ground which increases all magic damage you deal by 20% and reduces the mana cost of Arcane Blast by 100% while you stand within 5 yards. Lasts for 15 sec. This does not stack with Arcane Power.",
         "quality": "legendary",
         "specs": [
           "ARCANE"
@@ -8219,7 +8219,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398163",
         "name": "Tame Dragonkin",
         "icon": "ability_mount_drake_red",
-        "description": "Teaches you: Tame Dragonkin.",
+        "description": "Teaches you: Tame Dragonkin. \\n Tame Dragonkin \\n 30 yd range. Begins taming a dragonkin to be your companion. Your armor is reduced by 100% while you focus on taming the dragonkin for 20 sec. If you lose the dragonkin's attention for any reason, the taming process will fail. Each type of dragonkin has unique abilities that you will be able to make use of.",
         "quality": "legendary",
         "specs": [
           "FIRE"
@@ -8229,7 +8229,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398171",
         "name": "Frozen Orb",
         "icon": "spell_frost_frozenorb",
-        "description": "Teaches you: Frozen Orb.",
+        "description": "Teaches you: Frozen Orb. \\n Frozen Orb \\n 40 sec cooldown. Launches a Frozen Orb forward from the caster's position, that deals xyz Frost damage to all nearby enemy targets for 8 sec. Targets damaged by the Frost Orb are slowed by 40% for 2 sec.",
         "quality": "legendary",
         "specs": [
           "FROST"
@@ -8239,7 +8239,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398172",
         "name": "Meteor",
         "icon": "spell_mage_meteor",
-        "description": "Teaches you: Meteor.",
+        "description": "Teaches you: Meteor. \\n Meteor \\n 30 yd range. 45 sec cooldown. Calls down a meteor which lands at the target after 3 seconds, dealing xyz to xyz Fire damage, split evenly between all targets within 8 yards, and burns the ground, dealing Fire damage over 6 sec to all enemies in the area.",
         "quality": "legendary",
         "specs": [
           "FIRE"
@@ -8249,7 +8249,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398224",
         "name": "Arcane Orb",
         "icon": "spell_mage_arcaneorb",
-        "description": "Teaches you: Arcane Orb.",
+        "description": "Teaches you: Arcane Orb. \\n Arcane Orb \\n 30 sec cooldown. Launches an Arcane Orb forward from your position, traveling up to 35 yards, dealing Arcane damage to enemies it passes through and increasing their Arcane damage taken from you by 10%. Subsequent hits on the same target deals 50% less damage.",
         "quality": "legendary",
         "specs": [
           "ARCANE"
@@ -8279,7 +8279,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1573649",
         "name": "Cremation",
         "icon": "skill_icon_skill71_border",
-        "description": "Teaches you Cremation.",
+        "description": "Teaches you Cremation. \\n Cremation \\n 35 yard range. 2 min cooldown. Deals xyz Fire damage over 10 sec, plus 2 times the total periodic damage from your Ignite, Pyroblast, and Living Bomb effects, which are consumed. This periodic damage can critically strike.",
         "quality": "legendary",
         "specs": [
           "FIRE"
@@ -8316,7 +8316,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590912",
         "name": "Frost Bomb",
         "icon": "spell_mage_frostbomb",
-        "description": "Teaches you: Frost Bomb.",
+        "description": "Teaches you: Frost Bomb. \\n Frost Bomb \\n 30 yd range. 15 sec cooldown. 1.5 sec cast. The target becomes a Frost Bomb, exploding after 8 seconds (4 sec against players) dealing xyz Frost damage and slowing enemies within 10 yards by 40% for 2 sec. Frost damage dealt to the Frost Bomb activates it, dealing an additional 30% damage to the target and nearby enemies. Casting Frost Bomb on monsters also grants Fingers of Frost (if known).",
         "quality": "legendary",
         "specs": [
           "FROST"
@@ -8326,7 +8326,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591076",
         "name": "Touch of the Magi",
         "icon": "ability_mage_netherwindpresence",
-        "description": "Teaches you: Touch of the Magi.",
+        "description": "Teaches you: Touch of the Magi. \\n Touch of the Magi \\n 36 yd range. 1 min cooldown. Applies Touch of the Magi to the enemy, accumulating 50% of the Arcane damage you deal to the target for 10 sec, and then explodes restoring 20% total mana and dealing the accumulated Arcane damage to the target and nearby enemies.",
         "quality": "legendary",
         "specs": [
           "ARCANE"
@@ -8719,7 +8719,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591029",
         "name": "Hailstorm",
         "icon": "_d3blizzard",
-        "description": "Teaches you: Hailstorm.",
+        "description": "Teaches you: Hailstorm. \\n Hailstorm \\n 30 yd range. 20 sec cooldown. 2 sec cast. Ice shards pelt the target area doing xyz Frost damage over 6 sec. Scales with Blizzard modifiers",
         "quality": "epic",
         "specs": [
           "FROST"
