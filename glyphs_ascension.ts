@@ -9871,7 +9871,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398157",
         "name": "Combat Readiness",
         "icon": "ability_rogue_combatreadiness",
-        "description": "Teaches you: Combat Readiness.",
+        "description": "Teaches you: Combat Readiness. \\n Combat Readiness \\n 1.5 min cooldown. Enter a state of heightened defensive awareness. Each time you're hit by a spell or ability you reduce your overall damage taken by 5% for 10 sec, stacking 5 times. Lasts 20 sec or until not attacked for 10 sec.",
         "quality": "artifact",
         "specs": [
           "COMBAT"
@@ -9881,7 +9881,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398177",
         "name": "Grappling Hook",
         "icon": "ability_rogue_grapplinghook",
-        "description": "Teaches you: Grappling Hook.",
+        "description": "Teaches you: Grappling Hook. \\n Grappling Hook \\n 30 yd range. 25 sec cooldown. Launch a grappling hook and pull yourself to the target location.",
         "quality": "artifact",
         "specs": [
           "COMBAT"
@@ -9897,7 +9897,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398189",
         "name": "Smoke Bomb",
         "icon": "ability_rogue_smoke",
-        "description": "Teaches you: Smoke Bomb.",
+        "description": "Teaches you: Smoke Bomb. \\n Smoke Bomb \\n 3 min cooldown. Creates a cloud of thick smoke in an 8 yard radius around you for 5 sec. Enemies are unable to target into or out of the smoke cloud.",
         "quality": "artifact",
         "specs": [
           "SUBTLETY"
@@ -9949,7 +9949,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180002",
         "name": "Shadow Blades",
         "icon": "inv_knife_1h_grimbatolraid_d_03",
-        "description": "Teaches you: Shadow Blades.",
+        "description": "Teaches you: Shadow Blades. \\n Shadow Blades \\n 1.5 min cooldown. Draws upon surrounding shadows to empower your weapons, causing your direct damaging melee combo point generating abilities to generate an additional combo point and deal 15% additional damage as Shadow for 15 sec. Does not break stealth.",
         "quality": "legendary",
         "specs": [
           "SUBTLETY"
@@ -10038,7 +10038,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591097",
         "name": "Kingsbane",
         "icon": "inv_knife_1h_artifactgarona_d_02",
-        "description": "Teaches you: Kingsbane.",
+        "description": "Teaches you: Kingsbane. \\ Kingsbane \\n 45 sec cooldown. Release a lethal poison from your weapons and inject it into your target, dealing xyz Nature damage instantly and xyz additional Nature damage over 12 sec. Each time you apply a Deadly, Instant or Wound Poison to a target affected by your Kingsbane, its damage increases by 10%. Awards 3 combo points.",
         "quality": "legendary",
         "specs": [
           "ASSASSINATION"
@@ -10162,7 +10162,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398204",
         "name": "Dispatch",
         "icon": "ability_rogue_waylay",
-        "description": "Teaches you: Dispatch.",
+        "description": "Teaches you: Dispatch. \\n Dispatch \\n 6 sec cooldown. Finishing move that cuases damage per combo point: 1 point : xyz - xyz damage. 2 points: xyz - xyz damage. 3 points: xyz - xyz damage. 4 points: xyz - xyz damage. 5 points: xyz - xyz damage. If used on a target below 35% health, your next Eviscerate or Envenom deals 20% increased damage. Dispatch does not consume combo points.",
         "quality": "epic",
         "specs": [
           "ASSASSINATION"
@@ -10333,7 +10333,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591022",
         "name": "Poison Bomb",
         "icon": "inv_eng_bombpoison",
-        "description": "Teaches you: Poison Bomb.",
+        "description": "Teaches you: Poison Bomb. \\n Poison Bomb \\n 15 yd range. 15 sec cooldown. Throw a Poison Bomb that unleashes deadly fumes, immediately applying a stack of Deadly Poison and an additional stack to nearby enemies every 2 seconds for 10 sec.",
         "quality": "epic",
         "specs": [
           "ASSASSINATION"
