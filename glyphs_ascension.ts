@@ -12806,7 +12806,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180270",
         "name": "War Banner",
         "icon": "warrior_skullbanner",
-        "description": "Teaches you: War Banner.",
+        "description": "Teaches you: War Banner. \\n War Banner \\n 1.5 min cooldown. Throw down a war banner at your feet, rallying your allies. Increases movement speed by 30% and reduces the duration of all incoming crowd control effects by 50% to all allies within 20 yards of the war banner. Lasts 10 sec.",
         "quality": "artifact",
         "specs": [
           "ARMS"
@@ -12816,7 +12816,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398158",
         "name": "Avatar",
         "icon": "warrior_talent_icon_avatar",
-        "description": "Teaches you: Avatar.",
+        "description": "Teaches you: Avatar. \\n Avatar \\n 2 min cooldown. Transform into a colossus for 10 sec, causing you to take 20% less damage and become immune to immobilizing effects.",
         "quality": "artifact",
         "specs": [
           "ARMS"
@@ -12826,7 +12826,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398223",
         "name": "Siegebreaker",
         "icon": "inv_mace_2h_draenorguard_b_01_horde",
-        "description": "Teaches you: Siegebreaker.",
+        "description": "Teaches you: Siegebreaker. \\n Siegebreaker \\n 8 yd range. 30 sec cooldown. Use your full strength to slam the target with your weapon, dealing 100% weapon damage and knocking it back. Enemies the target collides with are knocked back slightly and take 75% weapon damage.",
         "quality": "artifact",
         "specs": [
           "FURY"
@@ -12836,7 +12836,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398360",
         "name": "Heroic Leap",
         "icon": "ability_heroicleap",
-        "description": "Teaches you: Heroic Leap.",
+        "description": "Teaches you: Heroic Leap. \\n Heroic Leap \\n 30 yd range. 45 sec cooldown. Leap through the air toward a target location, slamming down with a destructive force to deal xyz Physical damage to all enemies within 8 yards.",
         "quality": "artifact",
         "specs": [
           "FURY"
@@ -12884,7 +12884,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1143179",
         "name": "Ravager",
         "icon": "warrior_talent_icon_ravager",
-        "description": "Teaches you: Ravager.",
+        "description": "Teaches you: Ravager. \\n Ravager \\n 30 yd range. 45 sec cooldown. Throws a whirling weapon at the target location, inflicting 40% weapon damage every second to all nearby enemies for 8 sec.",
         "quality": "legendary",
         "specs": [
           "FURY"
@@ -12910,7 +12910,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1186362",
         "name": "Colossus Smash",
         "icon": "ability_warrior_colossussmash",
-        "description": "Teaches you: Colossus Smash",
+        "description": "Teaches you: Colossus Smash \\n Colossus Smash \\n 18 sec cooldown. Smashes a target for 270% weapon damage, this damage cannot be dodged, blocked or parried. This attack weakens the defenses of your target, increasing the damage you deal to the target by 15% for 7 sec and applies 2 stacks of Sunder Armor.",
         "quality": "legendary",
         "specs": [
           "ARMS",
@@ -12921,7 +12921,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398215",
         "name": "Bloodbath",
         "icon": "ability_warrior_bloodbath",
-        "description": "Teaches you: Bloodbath.",
+        "description": "Teaches you: Bloodbath. \\n Bloodbath \\n 1 min cooldown. For the next 6 sec your melee abilities deal 35 bleed damage over 5 sec and reduces the movement speed of the target by 30% for 5 sec.",
         "quality": "legendary",
         "specs": [
           "FURY"
@@ -12931,7 +12931,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398220",
         "name": "Raging Blow",
         "icon": "warrior_wild_strike",
-        "description": "Teaches you: Raging Blow.",
+        "description": "Teaches you: Raging Blow. \\n Raging Blow \\n 10 sec cooldown. A mighty blow that deals 150% weapon damage from both melee weapons. Using Bloodrage, Death Wish, Berserker Rage, Recklessness, or killing a target that yields experience or honor makes your next Raging Blow have no rage cost and trigger no cooldown. This can be stored 3 times.",
         "quality": "legendary",
         "specs": [
           "FURY",
@@ -12952,7 +12952,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1572215",
         "name": "Ambidextrous",
         "icon": "_d3calloftheancients",
-        "description": "Your Heroic Strike also hits with your off-hand weapon, dealing 60% weapon damage. After using Heroic Strike you deal 5% increased damage with your off-hand attacks for 8 sec, stacking up to 3.",
+        "description": "Your Heroic Strike also hits with your off-hand weapon, dealing 60% weapon damage. After using Heroic Strike you deal 5% increased damage with your off-hand attacks for 8 sec, stacking up to 3.",
         "quality": "legendary",
         "specs": [
           "FURY"
@@ -12972,7 +12972,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590910",
         "name": "Dragon Roar",
         "icon": "ability_warrior_dragonroar",
-        "description": "Reduces the cooldown of your Whirlwind by 2 sec. Teaches you: Dragon Roar.",
+        "description": "Reduces the cooldown of your Whirlwind by 2 sec. Teaches you: Dragon Roar. \\n Dragon Roar \\n 30 sec cooldown. Roar explosively, dealing xyz Physical damage to nearby enemies and reducing their movement speed by 60% for 2 sec. Using Dragon Roar resets the cooldown of Whirlwind.",
         "quality": "legendary",
         "specs": [
           "FURY"
@@ -12982,7 +12982,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590930",
         "name": "Storm Bolt",
         "icon": "warrior_talent_icon_stormbolt",
-        "description": "Teaches you: Storm Bolt.",
+        "description": "Teaches you: Storm Bolt. \\n Storm Bolt \\n 30 yd range. 40 sec cooldown. Hurl your weapon at an enemy, causing 150% weapon damage, stunning the target for 3 sec and electrifying the ground, dealing xyz Nature damage to nearby enemies. If the target is a monster you also take 8% reduced damage and your Thunder Clap gains 50% increased critical strike chance for 20 sec.",
         "quality": "legendary",
         "specs": [
           "PROTECTION"
@@ -12992,7 +12992,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590962",
         "name": "Bulwark",
         "icon": "ability_warrior_shieldguard",
-        "description": "Teaches you: Bulwark.",
+        "description": "Teaches you: Bulwark. \\n Bulwark \\n 45 sec cooldown. Raise a mighty bulwark that grants you 40% block chance and causes you to deal Physical damage to nearby enemies every second, modified by your shield block value, but reduces your movement speed by 30%. Lasts for 6 sec.",
         "quality": "legendary",
         "specs": [
           "PROTECTION"
