@@ -11312,7 +11312,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1133071",
         "name": "Binding Shot",
         "icon": "spell_shaman_bindelemental",
-        "description": "Teaches you: Binding Shot.",
+        "description": "Teaches you: Binding Shot. \\n Binding Shot \\n 30 yd range. 40 sec cooldown. Fires a magical projectile, tethering the enemy and any other enemies within 5 yards for 5 sec, stunning them for 3 sec if they move more than 5 yards from the arrow.",
         "quality": "artifact",
         "specs": [
           "MARKSMANSHIP"
@@ -11322,7 +11322,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1143163",
         "name": "Defense of the Turtle",
         "icon": "ability_hunter_pet_turtle",
-        "description": "Teaches you: Defense of the Turtle.",
+        "description": "Teaches you: Defense of the Turtle. \\n Defense of the Turtle \\n 1.5 min cooldown. Reduces damage taken by 50%. Your movement speed cannot exceed 80% of normal speed. Lasts 8 sec.",
         "quality": "artifact",
         "specs": [
           "SURVIVAL"
@@ -11332,7 +11332,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1143170",
         "name": "Flanking Strike",
         "icon": "ability_hunter_invigeration",
-        "description": "Teaches you: Flanking Strike.",
+        "description": "Teaches you: Flanking Strike. \\n Flanking Strike \\n 25 yd range. 25 sec cooldown. You and your pet charge to the target and strike it as one, dealing Physical damage.",
         "quality": "artifact",
         "specs": [
           "SURVIVAL"
@@ -11364,7 +11364,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1133070",
         "name": "Powershot",
         "icon": "ability_hunter_resistanceisfutile",
-        "description": "Teaches you: Powershot.",
+        "description": "Teaches you: Powershot. \\n Powershot \\n 35 yd range. 30 sec cooldown. You wind up a powerful shot, which deals 250% weapon damage to the target and all enemies between you and the target. Your attacks bypass 25% armor for 10 sec on enemies and they are also knocked back.",
         "quality": "legendary",
         "specs": [
           "MARKSMANSHIP"
@@ -11404,7 +11404,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1143164",
         "name": "Aspect of the Fox",
         "icon": "ability_hunter_aspectofthefox",
-        "description": "Teaches you: Aspect of the Fox.",
+        "description": "Teaches you: Aspect of the Fox. \\n Aspect of the Fox \\n 1 sec cooldown. Auto Shot and Steady Shot is usable while moving.",
         "quality": "legendary",
         "specs": [
           "MARKSMANSHIP"
@@ -11414,7 +11414,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180059",
         "name": "Stampede",
         "icon": "ability_hunter_bestialdiscipline",
-        "description": "Teaches you: Stampede.",
+        "description": "Teaches you: Stampede. \\n Stampede \\n 2 min cooldown. Summon a herd of stampeding animals from the wilds that deals xyz Physical damage to your enemies over 6 sec. The animals run up to 30 yards in front of you. Enemies struck by the stampede take increased damage from you and your pet by 5% for 20 sec, stacking to 4. Enemies' movement speed are also reduced by 50% for 3 sec.",
         "quality": "legendary",
         "specs": [
           "BEASTMASTERY"
@@ -11424,7 +11424,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398205",
         "name": "Barbed Shot",
         "icon": "ability_hunter_barbedshot",
-        "description": "Teaches you: Barbed Shot.",
+        "description": "Teaches you: Barbed Shot. \\n Barbed Shot \\n 35 yd range. 2 Charges. 10 sec recharge. Fire a shot that tears through your enemy, causing them to bleed for xyz Physical damage over 8 sec. This sends your pet into a frenzy, increasing the attack speed by 10% for 8 sec, stacking up to 3 times.",
         "quality": "legendary",
         "specs": [
           "BEASTMASTERY"
@@ -11470,7 +11470,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591051",
         "name": "Flare Strike",
         "icon": "_diablo3_arrowrain_rogue",
-        "description": "Teaches you: Flare Strike.",
+        "description": "Teaches you: Flare Strike. \\n Flare Strike \\n 35 yd range. 40 sec cooldown. Fire a flare that exposes any hidden and invisible enemies within 10 yards for 2 sec. When it expires, a rain of arrows is called down, dealing xyz Fire damage. Enemies hit are slowed by 30% and take 10% more damage from you for 15 sec. The damage is increased by 25% on the target of your Hunter's Mark.",
         "quality": "legendary",
         "specs": [
           "MARKSMANSHIP",
@@ -11606,7 +11606,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398217",
         "name": "Blood Tracker: Glaive Toss",
         "icon": "ability_glaivetoss",
-        "description": "Teaches you: Glaive Toss.",
+        "description": "Teaches you: Glaive Toss. \\n Glaive Toss \\n 35 yd range. 12 sec cooldown. You hurl two glaives toward the target, each dealing 60% weapon damage.",
         "quality": "epic",
         "specs": [
           "SURVIVAL",
@@ -11777,7 +11777,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591030",
         "name": "Rain of Arrows",
         "icon": "ability_marksmanship",
-        "description": "Teaches you: Rain of Arrows.",
+        "description": "Teaches you: Rain of Arrows. \\n Rain of Arrows \\n 35 yd range. 20 sec cooldown. Continously fires a volley of ammo at the target area, causing xyz Arcane damage to the enemy targets within 8 yards every second for 6 sec.",
         "quality": "epic",
         "specs": [
           "MARKSMANSHIP"
@@ -11787,7 +11787,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591156",
         "name": "Black Widow Strike",
         "icon": "epic_rpg_icon_pack_poison_icon_0001s_0000_spider_border",
-        "description": "Transforms your Black Arrow into Black Widow Strike. This ability scales from your Black Arrow modifiers.",
+        "description": "Transforms your Black Arrow into Black Widow Strike. This ability scales from your Black Arrow modifiers. \\ Black Widow Strike \\n 30 sec cooldown. A poisonous strike, increasing all damage done by you to the target by 8% and dealing xyz Physical damage and an additional xyz Nature damage every 3 seconds for 15 sec.",
         "quality": "epic",
         "specs": [
           "SURVIVAL"
