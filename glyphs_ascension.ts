@@ -148,7 +148,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1181330",
         "name": "Celestial Power",
         "icon": "ability_druid_cresentburn",
-        "description": "Your Starfire applies Star's Fury on targets not affected by your Moonfire. This effect does not stack with Moonfire. Your Wrath applies Nature's Wrath on targets not affected by your Insect Swarm. This effect does not stack with Insect Swarm. \\n Star's Fury \\n Increases the damage the target takes from your Starfire and Starsurge by 5%, stacking up to 3 times. Lasts 20 sec. \\n Nature's Wrath \\n Increases the damage the target takes from your Wrath and Starsurge by 5%, stacking up to 3 times. Lasts 20 sec.",
+        "description": "Your Starfire applies Star's Fury on targets not affected by your Moonfire. This effect does not stack with Moonfire. Your Wrath applies Nature's Wrath on targets not affected by your Insect Swarm. This effect does not stack with Insect Swarm. \\n Star's Fury \\n Increases the damage the target takes from your Starfire and Starsurge by 5%, stacking up to 3 times. Lasts 20 sec. \\n Nature's Wrath \\n Increases the damage the target takes from your Wrath and Starsurge by 5%, stacking up to 3 times. Lasts 20 sec.",
         "quality": "legendary",
         "specs": [
           "BALANCE"
@@ -250,7 +250,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1586133",
         "name": "Flow of Life",
         "icon": "spell_nature_rune",
-        "description": "Transforms Tranquility into Flow of Life. \\n Flow of Life \\n Heals the 5 lowest health nearby party or raid members for (141+1.9 Points Per Level)+(Heal*0.0.085085) Every 1 seconds for 8 sec seconds and restores 1 seconds of your active heal over Time effects on allies healed.",
+        "description": "Transforms Tranquility into Flow of Life. \\n Flow of Life \\n Heals the 5 lowest health nearby party or raid members for (141+1.9 Points Per Level)+(Heal*0.0.085085) Every 1 seconds for 8 sec seconds and restores 1 seconds of your active heal over Time effects on allies healed.",
         "quality": "legendary",
         "specs": [
           "RESTORATION"
@@ -325,7 +325,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180150",
         "name": "Flourishing Nature",
         "icon": "spell_druid_wildburst",
-        "description": "Using Healing Touch or Nourish on an ally increases their healing taken from your healing over time effects by 20% for 5 sec, stacking up to 2 times.",
+        "description": "Using Healing Touch or Nourish on an ally increases their healing taken from your healing over time effects by 20% for 5 sec, stacking up to 2 times.",
         "quality": "epic",
         "specs": [
           "RESTORATION"
@@ -355,7 +355,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180540",
         "name": "Astral Alignment",
         "icon": "ability_druid_twilightswrath",
-        "description": "Casting Moonfire, Starfire or Starsurge on an enemy increases the damage they take from your Wrath by 10% for 10 sec. Casting Wrath on an affected target restores 5% base mana.",
+        "description": "Casting Moonfire, Starfire or Starsurge on an enemy increases the damage they take from your Wrath by 10% for 10 sec. Casting Wrath on an affected target restores 5% base mana.",
         "quality": "epic",
         "specs": [
           "BALANCE"
@@ -438,7 +438,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1181160",
         "name": "Frenzied Slashing",
         "icon": "spell_druid_bearhug",
-        "description": "Using Swipe (Bear) or Thrash increases your attack speed by 20% for 12 sec. This effect can only occur once every 10 seconds.",
+        "description": "Using Swipe (Bear) or Thrash increases your attack speed by 20% for 12 sec. This effect can only occur once every 10 seconds.",
         "quality": "epic",
         "specs": [
           "FERAL"
@@ -494,7 +494,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1567772",
         "name": "Languish",
         "icon": "spell_nature_naturetouchdecay",
-        "description": "Your Starfire, Wrath and Starsurge critical strikes causes the target to take an additional 8% of your spell's damage over 4 sec.",
+        "description": "Your Starfire, Wrath and Starsurge critical strikes causes the target to take an additional 8% of your spell's damage over 4 sec.",
         "quality": "epic",
         "specs": [
           "BALANCE"
@@ -504,7 +504,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1567810",
         "name": "Astral Winds",
         "icon": "ability_druid_galewinds",
-        "description": "Targets released from your Cyclone or hit by your Typhoon take 50% reduced healing, fading over 8 sec seconds. In addition, the cast time of Cyclone is reduced by 0.3 seconds.",
+        "description": "Targets released from your Cyclone or hit by your Typhoon take 50% reduced healing, fading over 8 sec seconds. In addition, the cast time of Cyclone is reduced by 0.3 seconds.",
         "quality": "epic",
         "specs": [
           "BALANCE"
@@ -567,7 +567,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1581667",
         "name": "Relentless Laceration",
         "icon": "artifactability_feraldruid_openwounds",
-        "description": "Using Lacerate causes you to ignore 2% of the target's armor and increases your chance to critically hit the target with melee attacks by 2%. Stacks up to 5 times and lasts for 15 sec,",
+        "description": "Using Lacerate causes you to ignore 2% of the target's armor and increases your chance to critically hit the target with melee attacks by 2%. Stacks up to 5 times and lasts for 15 sec,",
         "quality": "epic",
         "specs": [
           "FERAL"
@@ -587,7 +587,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1583363",
         "name": "Elune's Fury",
         "icon": "talentspec_druid_balance",
-        "description": "Moonfire hits an additional 2 targets and grants 3% haste for 18 sec, stacking 3 times.",
+        "description": "Moonfire hits an additional 2 targets and grants 3% haste for 18 sec, stacking 3 times.",
         "quality": "epic",
         "specs": [
           "BALANCE"
@@ -620,7 +620,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1584951",
         "name": "Primal Frenzy",
         "icon": "ability_druid_primaltenacity",
-        "description": "Dealing damage with Rip and Rake has a 15% chance to empower you, increasing damage done by 6% for 8 sec.",
+        "description": "Dealing damage with Rip and Rake has a 15% chance to empower you, increasing damage done by 6% for 8 sec.",
         "quality": "epic",
         "specs": [
           "FERAL"
@@ -673,7 +673,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1589878",
         "name": "Bash and Thrash",
         "icon": "spell_druid_primaltenacity",
-        "description": "Increases the threat generated by Bash significantly. Using Bash grants you Enrage, empowers Mangle (Bear) to hit 2 additional nearby targets and causes you to generate extra threat on the target, scaling with your attack power for 8 sec.",
+        "description": "Increases the threat generated by Bash significantly. Using Bash grants you Enrage, empowers Mangle (Bear) to hit 2 additional nearby targets and causes you to generate extra threat on the target, scaling with your attack power for 8 sec.",
         "quality": "epic",
         "specs": [
           "FERAL"
@@ -716,7 +716,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590850",
         "name": "Ambush Predator",
         "icon": "ability_druid_predatoryinstincts",
-        "description": "Dealing damage with Rake or Rip has a 10% chance and Shred has a 20% chance to grant you Ambush Predator. \\n Ambush Predator \\n Your next Ravage can be cast outside of Prowl, has no positional requirement, costs 20 less energy and grants an additional combo point. Lasts 12 sec. Additionally, Ravage will trigger your Mangle debuff.",
+        "description": "Dealing damage with Rake or Rip has a 10% chance and Shred has a 20% chance to grant you Ambush Predator. \\n Ambush Predator \\n Your next Ravage can be cast outside of Prowl, has no positional requirement, costs 20 less energy and grants an additional combo point. Lasts 12 sec. Additionally, Ravage will trigger your Mangle debuff.",
         "quality": "epic",
         "specs": [
           "FERAL"
@@ -918,7 +918,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "54832",
         "name": "Glyph of Innervate",
         "icon": "spell_nature_lightning",
-        "description": "Innervate now grants the caster 45% of <his/her> base mana pool over 10 sec in addition to the normal effects of Innervate.",
+        "description": "Innervate now grants the caster 45% of <his/her> base mana pool over 10 sec in addition to the normal effects of Innervate.",
         "quality": "rare",
         "specs": [
           "BALANCE"
@@ -1698,7 +1698,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1361346",
         "name": "Nature's Grace",
         "icon": "spell_nature_naturesblessing",
-        "description": "Crossover Talent All non-periodic spell criticals have a 100% chance to grace you with a blessing of nature, increasing your spell casting speed by 20% for 3 sec. This Mystic Enchant does not stack with the Nature's Grace Talent.",
+        "description": "Crossover Talent All non-periodic spell criticals have a 100% chance to grace you with a blessing of nature, increasing your spell casting speed by 20% for 3 sec. This Mystic Enchant does not stack with the Nature's Grace Talent.",
         "quality": "rare",
         "specs": [
           "BALANCE"
@@ -1732,7 +1732,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "991022",
         "name": "Divine Steed",
         "icon": "ability_paladin_divinesteed",
-        "description": "Teaches you: Divine Steed.",
+        "description": "Teaches you: Divine Steed. \\n Divine Steed \\n 45 sec cooldown. Leap atop your Charger for 3 sec, increasing movement speed by 70%. Usable while indoors and in combat.",
         "quality": "artifact",
         "specs": [
           "RETRIBUTION"
@@ -1742,7 +1742,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1181440",
         "name": "Aegis of the Martyr",
         "icon": "ability_paladin_lightofthemartyr",
-        "description": "Teaches you Aegis of the Martyr.",
+        "description": "Teaches you Aegis of the Martyr. \\n Aegis of the Martyr \\n 40 yd range. 45 sec cooldown. Sacrifice 30% of your max health to place a powerful aegis on your target, absorbing up to xyz damage for 10 sec. If you have below 30% health your will be left with 1 health.",
         "quality": "artifact",
         "specs": [
           "HOLY"
@@ -1758,7 +1758,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398188",
         "name": "Blinding Light",
         "icon": "ability_paladin_blindinglight",
-        "description": "Teaches you: Blinding Light.",
+        "description": "Teaches you: Blinding Light. \\n Blinding Light \\n 40 sec cooldown. Emits dazzling light in all directions, blinding enemies within 10 yards, causing them to wander disoriented for 6 sec.",
         "quality": "artifact",
         "specs": [
           "HOLY"
@@ -1768,7 +1768,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398210",
         "name": "Light's Hammer",
         "icon": "spell_paladin_lightshammer",
-        "description": "Teaches you: Light's Hammer.",
+        "description": "Teaches you: Light's Hammer. \\n Light's Hammer \\n Hurl a Light-infused hammer into the ground, where it will blast a 10 yard area with Arcing Light for 10 sec. Deals Holy damage to enemies and reduces their movement speed by 50% for 3 sec. Also heals up to 5 allies every 2.5 sec.",
         "quality": "artifact",
         "specs": [
           "PROTECTION"
@@ -1810,7 +1810,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180100",
         "name": "Guardian of Ancient Kings",
         "icon": "spell_holy_heroism",
-        "description": "Teaches you: Guardian of Ancient Kings.",
+        "description": "Teaches you: Guardian of Ancient Kings. \\n Guardian of Ancient Kings \\n 1 min cooldown. Transform into a Guardian of Ancient Kings, resetting the cooldown of Hammer of the Righteous and Divine Storm. While active their cooldowns are reduced by 50%. Also increases your damage done by 15% and reduces damage taken by 10%. Lasts 10 sec.",
         "quality": "legendary",
         "specs": [
           "PROTECTION",
@@ -1821,7 +1821,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180300",
         "name": "Glimmer of Light",
         "icon": "ability_paladin_toweroflight",
-        "description": "Flash of Light leaves a Glimmer of Light on any friendly target healed, lasting for 15 sec. \\n Glimmer of Light \\n Increases the critical strike chance of the Paladins Flash of Light by 25%. Healing any ally with Holy Shock also heals allies with your Glimmer of Light for 70% of the healing done.",
+        "description": "Flash of Light leaves a Glimmer of Light on any friendly target healed, lasting for 15 sec. \\n Glimmer of Light \\n Increases the critical strike chance of the Paladins Flash of Light by 25%. Healing any ally with Holy Shock also heals allies with your Glimmer of Light for 70% of the healing done.",
         "quality": "legendary",
         "specs": [
           "HOLY"
@@ -1831,7 +1831,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180460",
         "name": "Twist of Faith",
         "icon": "ability_paladin_artofwar",
-        "description": "Using Seal of Righteousness, Seal of Command, Seal of Vengeance or Seal of Corruption while a different one of these seals is already active grants you the previously active seal for 8 sec. These seals have their global cooldown reduced to 1 sec, no longer cost any mana but have a 10 second cooldown.",
+        "description": "Using Seal of Righteousness, Seal of Command, Seal of Vengeance or Seal of Corruption while a different one of these seals is already active grants you the previously active seal for 8 sec. These seals have their global cooldown reduced to 1 sec, no longer cost any mana but have a 10 second cooldown.",
         "quality": "legendary",
         "specs": [
           "RETRIBUTION"
@@ -1854,7 +1854,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398216",
         "name": "Execution Sentence",
         "icon": "spell_paladin_executionsentence",
-        "description": "Teaches you: Execution Sentence.",
+        "description": "Teaches you: Execution Sentence. \\n Execution Sentence \\n 30 yd range. 40 sec cooldown. A hammer slowly falls from the sky causing Holy damage over 10 sec. This culminates in a final burst of damage, dealing damage to enemies within 5 yards. Dispelling the effect triggers the final burst. Using Judgement on a target affected by your Execution Sentence only triggers half its cooldown.",
         "quality": "legendary",
         "specs": [
           "RETRIBUTION"
@@ -1864,7 +1864,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1554908",
         "name": "Holy Templar",
         "icon": "spell_holy_rune",
-        "description": "Crusader Strike, Divine Storm and Holy Shock grant you Holy Power, which stacks up to 5 times. You can consume 3 Holy Power to use Templar's Verdict or Word of Glory.",
+        "description": "Crusader Strike, Divine Storm and Holy Shock grant you Holy Power, which stacks up to 5 times. You can consume 3 Holy Power to use Templar's Verdict or Word of Glory. \\ Templar's Verdict \\n A powerful strike that deals 180% weapon damage. \\n Word of Glory \\n Heals a friendly target for xyz and another xyz for 6 sec.",
         "quality": "legendary",
         "specs": [
           "RETRIBUTION",
@@ -1875,7 +1875,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1571465",
         "name": "Blessing of the Divines",
         "icon": "spell_holy_impholyconcentration",
-        "description": "Your Paladin heals have a 33% chance to trigger a random blessing. This can only occur once every 5 seconds. \\n Blessing of the Divines \\n Increases healing taken by 5% and reduces damage taken by 5%. \\n Blessing of Radiance \\n Heals 3 party or raid members within 30 yards of you for 291*$ )+(SP*0.12). \\n Blessing of Mending \\n Heals 3 party or raid members within 30 yards of you every 3 seconds for 143*$ )+(SP*0.036). Lasts 15 sec.",
+        "description": "Your Paladin heals have a 33% chance to trigger a random blessing. This can only occur once every 5 seconds. \\n Blessing of the Divines \\n Increases healing taken by 5% and reduces damage taken by 5%. \\n Blessing of Radiance \\n Heals 3 party or raid members within 30 yards of you for 291*$ )+(SP*0.12). \\n Blessing of Mending \\n Heals 3 party or raid members within 30 yards of you every 3 seconds for 143*$ )+(SP*0.036). Lasts 15 sec.",
         "quality": "legendary",
         "specs": [
           "HOLY"
@@ -1885,7 +1885,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1572131",
         "name": "Crimson Defense",
         "icon": "spell_holy_blessingofprotection_red",
-        "description": "Blocking attacks grants you Crimson Defender. Increases your chance to Block by 10%. \\n Crimson Defender \\n Consume 3 stacks to empower your next ability. Stacks up to 6 times and lasts for 15 sec. - Shield of Righteousness: Deals an additional 100*$ )+(SP*0.2)+(AP*0.15) Holy damage to 5 nearby enemies. - Avenger's Shield: Increases your block value by 15% and threat by 15% for 15 sec.",
+        "description": "Blocking attacks grants you Crimson Defender. Increases your chance to Block by 10%. \\n Crimson Defender \\n Consume 3 stacks to empower your next ability. Stacks up to 6 times and lasts for 15 sec. - Shield of Righteousness: Deals an additional 100*$ )+(SP*0.2)+(AP*0.15) Holy damage to 5 nearby enemies. - Avenger's Shield: Increases your block value by 15% and threat by 15% for 15 sec.",
         "quality": "legendary",
         "specs": [
           "PROTECTION"
@@ -1905,7 +1905,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591108",
         "name": "Hammerstorm",
         "icon": "custom_t_hammerofjustice_border",
-        "description": "Teaches you: Hammerstorm.",
+        "description": "Teaches you: Hammerstorm. \\n Hammerstorm \\n 25 sec cooldown. Holy hammers surround you for 5 sec, increasing your armor by 30% and dealing xyz Holy damage every second to nearby enemies and reduces their attack speed by 20% for 20 sec.",
         "quality": "legendary",
         "specs": [
           "PROTECTION"
@@ -1915,7 +1915,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591146",
         "name": "Light of the Guardian",
         "icon": "spell_holy_pureofheart",
-        "description": "Teaches you: Light of the Guardian.",
+        "description": "Teaches you: Light of the Guardian. \\n Light of the Guardian \\n 30 sec cooldown. Absorbs xyz damage and deals xyz high-threat Holy damage to enemies within 8 yards of the Paladin. Reduces damage taken from creatures by 20% and increases healing received by 30% for 8 sec.",
         "quality": "legendary",
         "specs": [
           "PROTECTION"
@@ -2029,7 +2029,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180970",
         "name": "Long Arm of the Law",
         "icon": "ability_paladin_longarmofthelaw",
-        "description": "Dealing damage with Hand of Reckoning increases your movement speed by 50% for 3 sec. While active, dealing damage with a Judgement effect extends the duration by 2 sec.",
+        "description": "Dealing damage with Hand of Reckoning increases your movement speed by 50% for 3 sec. While active, dealing damage with a Judgement effect extends the duration by 2 sec.",
         "quality": "epic",
         "specs": [
           "RETRIBUTION"
@@ -2039,7 +2039,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398181",
         "name": "Light of Dawn",
         "icon": "spell_paladin_lightofdawn",
-        "description": "Teaches you: Light of Dawn.",
+        "description": "Teaches you: Light of Dawn. \\n Light of Dawn \\n Consumes 3 Holy Power, releasing a cone of Holy energy, healing up to 10 injured allies within a 30 yd frontal cone for xyz.",
         "quality": "epic",
         "specs": [
           "HOLY"
@@ -2052,7 +2052,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398258",
         "name": "Divine Sacrifice",
         "icon": "spell_holy_powerwordbarrier",
-        "description": "Teaches you: Divine Sacrifice Can not be used if the Divine Sacrifice talent is learned.",
+        "description": "Teaches you: Divine Sacrifice. Can not be used if the Divine Sacrifice talent is learned. \\n Divine Sacrifice \\n 2 min cooldown. 30% of all damage taken by party members within 30 yards is redirected to the Paladin (up to a maximum of 40% of the Paladin's health times the number of party members). Damage which reduces the Paladin below 20% health will break this effect. Lasts 10 sec.",
         "quality": "epic",
         "specs": [
           "PROTECTION"
@@ -2121,7 +2121,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1570582",
         "name": "Consecrated Weapon",
         "icon": "ability_paladin_righteousvengeance",
-        "description": "Your Consecration empowers your weapon for 10 sec, increasing your melee critical chance by 6% and giving attacks a chance to restore 5% base mana.",
+        "description": "Your Consecration empowers your weapon for 10 sec, increasing your melee critical chance by 6% and giving attacks a chance to restore 5% base mana.",
         "quality": "epic",
         "specs": [
           "RETRIBUTION"
@@ -2131,7 +2131,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1571694",
         "name": "Branding Zeal",
         "icon": "spell_holy_divineillumination",
-        "description": "Increases the damage of your Seal of Righteousness by 20%. Using a Judgement empowers Exorcism, Holy Shock, Hammer of Wrath and Holy Wrath, allowing them to trigger your Seal of Righteousness for 10 sec.",
+        "description": "Increases the damage of your Seal of Righteousness by 20%. Using a Judgement empowers Exorcism, Holy Shock, Hammer of Wrath and Holy Wrath, allowing them to trigger your Seal of Righteousness for 10 sec.",
         "quality": "epic",
         "specs": [
           "RETRIBUTION",
@@ -2165,7 +2165,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1584023",
         "name": "Consecrated Zeal",
         "icon": "spell_holy_innerfire",
-        "description": "Dealing damage with Consecration grants you stack of Consecrated Zeal. \\n Consecrated Zeal \\n Increases Holy damage done by 2% and reduces physical damage taken by 1%. Stacks up to 3 times and lasts 3 sec.",
+        "description": "Dealing damage with Consecration grants you stack of Consecrated Zeal. \\n Consecrated Zeal \\n Increases Holy damage done by 2% and reduces physical damage taken by 1%. Stacks up to 3 times and lasts 3 sec.",
         "quality": "epic",
         "specs": [
           "PROTECTION"
@@ -2175,7 +2175,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1584544",
         "name": "Swift Avenger",
         "icon": "spell_holy_divineshield",
-        "description": "Your Avenger's Shield hits up to 3 additional targets. For each target hit, you gain 10% increased movement speed. Stacks up to 5 times and lasts 4 sec.",
+        "description": "Your Avenger's Shield hits up to 3 additional targets. For each target hit, you gain 10% increased movement speed. Stacks up to 5 times and lasts 4 sec.",
         "quality": "epic",
         "specs": [
           "PROTECTION"
@@ -2188,7 +2188,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1585123",
         "name": "Blessed Hammer",
         "icon": "spell_holy_holyguidance",
-        "description": "Your Hammer of the Righteous deals 10% increased damage and increases your Holy damage done on enemies hit by 3% for 15 sec, stacking up to 3 times.",
+        "description": "Your Hammer of the Righteous deals 10% increased damage and increases your Holy damage done on enemies hit by 3% for 15 sec, stacking up to 3 times.",
         "quality": "epic",
         "specs": [
           "PROTECTION"
@@ -2214,7 +2214,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1585291",
         "name": "Sacred Unity",
         "icon": "ability_paladin_blessedhands",
-        "description": "Casting Holy Light on the target of your Beacon of Light extends the duration of Beacon of Light by 10 seconds and forms a bond that transfers 5% of damage they take to you for 10 sec. You can only form bonds with players. The shared damage can not break crowd control effects.",
+        "description": "Casting Holy Light on the target of your Beacon of Light extends the duration of Beacon of Light by 10 seconds and forms a bond that transfers 5% of damage they take to you for 10 sec. You can only form bonds with players. The shared damage can not break crowd control effects.",
         "quality": "epic",
         "specs": [
           "HOLY"
@@ -2237,7 +2237,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1589832",
         "name": "Armor of Wrath",
         "icon": "spell_paladin_hammerofwrath",
-        "description": "Casting Hammer of Wrath or Holy Wrath reduces all damage taken by 5% for 6 sec. Reduces the cooldown of Holy Wrath by 5.",
+        "description": "Casting Hammer of Wrath or Holy Wrath reduces all damage taken by 5% for 6 sec. Reduces the cooldown of Holy Wrath by 5.",
         "quality": "epic",
         "specs": [
           "PROTECTION"
@@ -2260,7 +2260,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590668",
         "name": "Fierce Vengeance",
         "icon": "spell_holy_rebuke",
-        "description": "Your Vengeance talent can stack up an additional time. \\n Vengeance \\n Gives you a 3% bonus to Physical and Holy damage you deal for 30 sec after dealing a critical strike from a weapon swing, spell, or ability. This effect stacks up to 3 times.",
+        "description": "Your Vengeance talent can stack up an additional time. \\n Vengeance \\n Gives you a 3% bonus to Physical and Holy damage you deal for 30 sec after dealing a critical strike from a weapon swing, spell, or ability. This effect stacks up to 3 times.",
         "quality": "epic",
         "specs": [
           "RETRIBUTION"
@@ -2755,7 +2755,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1320235",
         "name": "Improved Lay on Hands",
         "icon": "spell_holy_layonhands",
-        "description": "Crossover Talent Grants the target of your Lay on Hands spell 20% reduced physical damage taken for 15 sec. In addition, the cooldown for your Lay on Hands spell is reduced by 4 min. This Mystic Enchant does not stack with the Improved Lay on Hands Talent.",
+        "description": "Crossover Talent Grants the target of your Lay on Hands spell 20% reduced physical damage taken for 15 sec. In addition, the cooldown for your Lay on Hands spell is reduced by 4 min. This Mystic Enchant does not stack with the Improved Lay on Hands Talent.",
         "quality": "rare",
         "specs": [
           "HOLY"
@@ -3015,7 +3015,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1326016",
         "name": "Vindication",
         "icon": "spell_holy_vindication",
-        "description": "Crossover Talent Gives the Paladin's damaging attacks a chance to reduce the target's attack power by (-58+-1.8 Points Per Level) for 10 sec. This Mystic Enchant does not stack with the Vindication Talent.",
+        "description": "Crossover Talent Gives the Paladin's damaging attacks a chance to reduce the target's attack power by (-58+-1.8 Points Per Level) for 10 sec. This Mystic Enchant does not stack with the Vindication Talent.",
         "quality": "rare",
         "specs": [
           "RETRIBUTION"
@@ -3115,7 +3115,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1353530",
         "name": "Divine Guardian",
         "icon": "spell_holy_powerwordbarrier",
-        "description": "Crossover Talent When Divine Sacrifice is activated, your party and raid members within 30 yards take 20% reduced damage for 6 sec. In addition, increases the duration of your Sacred Shield by 100% and the amount absorbed by 20%. This Mystic Enchant does not stack with the Divine Guardian Talent.",
+        "description": "Crossover Talent When Divine Sacrifice is activated, your party and raid members within 30 yards take 20% reduced damage for 6 sec. In addition, increases the duration of your Sacred Shield by 100% and the amount absorbed by 20%. This Mystic Enchant does not stack with the Divine Guardian Talent.",
         "quality": "rare",
         "specs": [
           "PROTECTION"
@@ -3421,7 +3421,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1570759",
         "name": "Booming Thunder",
         "icon": "spell_shaman_thunderstorm",
-        "description": "Dealing damage with Lightning Bolt or Chain Lightning increases the damage, critical strike chance and critical strike damage bonus of your next Earth Shock by 8%. Stacks up to 15 times and lasts for 15 sec. Using Earth Shock with at least 8 stacks will cause a lightning strike, applying the Flame Shock periodic effect to the target.",
+        "description": "Dealing damage with Lightning Bolt or Chain Lightning increases the damage, critical strike chance and critical strike damage bonus of your next Earth Shock by 8%. Stacks up to 15 times and lasts for 15 sec. Using Earth Shock with at least 8 stacks will cause a lightning strike, applying the Flame Shock periodic effect to the target.",
         "quality": "legendary",
         "specs": [
           "ELEMENTAL"
@@ -3431,7 +3431,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1570865",
         "name": "Mending Tide",
         "icon": "spell_shaman_tidalwaves",
-        "description": "When you heal an ally with Riptide you apply Mending Tide. Can only be active on one ally at a time. \\n Mending Tide \\n Heals the target and 2 nearby allies within 8 yards for 164*$ +SP*0.05 every 2 seconds for 6 sec.",
+        "description": "When you heal an ally with Riptide you apply Mending Tide. Can only be active on one ally at a time. \\n Mending Tide \\n Heals the target and 2 nearby allies within 8 yards for 164*$ +SP*0.05 every 2 seconds for 6 sec.",
         "quality": "legendary",
         "specs": [
           "RESTORATION"
@@ -3548,7 +3548,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180740",
         "name": "Crackling Flames",
         "icon": "spell_fire_felflamering_red",
-        "description": "Casting Lightning Bolt, Chain Lightning or any Shock spell reduces the current cooldown of Fire Nova by 1 second. It also increases the damage of your next Fire Nova by 15% and reduces its cost by 15%. Lasts 10 sec. Stacks 5 times.",
+        "description": "Casting Lightning Bolt, Chain Lightning or any Shock spell reduces the current cooldown of Fire Nova by 1 second. It also increases the damage of your next Fire Nova by 15% and reduces its cost by 15%. Lasts 10 sec. Stacks 5 times.",
         "quality": "epic",
         "specs": [
           "ELEMENTAL"
@@ -3558,7 +3558,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180920",
         "name": "Tides of Restoration",
         "icon": "spell_shaman_hightide",
-        "description": "Casting Lesser Healing Wave or Chain Heal empowers your next Healing Wave, reducing its mana cost by 20% and increasing its critical chance by 10%. This effect stacks up to 3 times and lasts for 12 sec.",
+        "description": "Casting Lesser Healing Wave or Chain Heal empowers your next Healing Wave, reducing its mana cost by 20% and increasing its critical chance by 10%. This effect stacks up to 3 times and lasts for 12 sec.",
         "quality": "epic",
         "specs": [
           "RESTORATION"
@@ -3604,7 +3604,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1181210",
         "name": "Elemental Harmony",
         "icon": "spell_nature_slowingtotem",
-        "description": "Healing an ally to full health makes your next Lightning Bolt or Chain Lightning cost no mana. Lasts 30 sec. Holds up to 3 charges.",
+        "description": "Healing an ally to full health makes your next Lightning Bolt or Chain Lightning cost no mana. Lasts 30 sec. Holds up to 3 charges.",
         "quality": "epic",
         "specs": [
           "RESTORATION"
@@ -3677,7 +3677,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1567770",
         "name": "Lava Burn",
         "icon": "inv_elemental_primal_fire",
-        "description": "When Lava Burst critically strikes, you burn the target for an additional 15% of the damage dealt over 8 sec.",
+        "description": "When Lava Burst critically strikes, you burn the target for an additional 15% of the damage dealt over 8 sec.",
         "quality": "epic",
         "specs": [
           "ELEMENTAL"
@@ -3687,7 +3687,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1569696",
         "name": "Hydromancer: Water Nova",
         "icon": "spell_fire_blueflamering",
-        "description": "Casting Frost Shock on an enemy leaves behind a pool of splashing water for 6 sec, dealing 37*$ *4+ SP *0.03*4 Frost damage to nearby enemies over time. Dealing damage with Lightning Bolt or Chain Lightning, electrifies the water, causing it to deal 124*$ *4+ SP *0.1*4 Nature damage over 6 sec.",
+        "description": "Casting Frost Shock on an enemy leaves behind a pool of splashing water for 6 sec, dealing 37*$ *4+ SP *0.03*4 Frost damage to nearby enemies over time. Dealing damage with Lightning Bolt or Chain Lightning, electrifies the water, causing it to deal 124*$ *4+ SP *0.1*4 Nature damage over 6 sec.",
         "quality": "epic",
         "specs": [
           "ELEMENTAL"
@@ -3697,7 +3697,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1569785",
         "name": "Hydromancer: Conductor",
         "icon": "spell_shaman_crashlightning",
-        "description": "Dealing damage with Water Bolt or Frost Shock increases your chance to trigger Lightning Overload by 10%, stacking 3 times. Lasts for 8 sec.",
+        "description": "Dealing damage with Water Bolt or Frost Shock increases your chance to trigger Lightning Overload by 10%, stacking 3 times. Lasts for 8 sec.",
         "quality": "epic",
         "specs": [
           "ELEMENTAL"
@@ -3757,7 +3757,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1578806",
         "name": "Leader of the Elements",
         "icon": "ability_shaman_totemrelocation",
-        "description": "Casting Stormstrike, Lava Lash and Wind Lash reduces the cooldown of your Greater Elemental Totems by 10 seconds. Casting Shaman Shocks grants Leader of the Elements. Can only occur once every 15 seconds from the same spell. \\n Leader of the Elements \\n Increases the damage your Greater Elementals deal by 15%. Stacks up to 4 times. Lasts 10 sec.",
+        "description": "Casting Stormstrike, Lava Lash and Wind Lash reduces the cooldown of your Greater Elemental Totems by 10 seconds. Casting Shaman Shocks grants Leader of the Elements. Can only occur once every 15 seconds from the same spell. \\n Leader of the Elements \\n Increases the damage your Greater Elementals deal by 15%. Stacks up to 4 times. Lasts 10 sec.",
         "quality": "epic",
         "specs": [
           "ELEMENTAL"
@@ -3767,7 +3767,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1578857",
         "name": "Cataclysmic Sundering",
         "icon": "spell_fire_moltenblood",
-        "description": "Using Sundering leaves a burning patch of lava on the ground, dealing 90*$ + SP *0.05 Fire damage to enemies every second over 4 sec. When Sundering deals damage to a creature the cooldown of Sundering is reduced by 15 seconds and causes your next Lava Burst to be instant cast. Sundering no longer incapacitates creatures.",
+        "description": "Using Sundering leaves a burning patch of lava on the ground, dealing 90*$ + SP *0.05 Fire damage to enemies every second over 4 sec. When Sundering deals damage to a creature the cooldown of Sundering is reduced by 15 seconds and causes your next Lava Burst to be instant cast. Sundering no longer incapacitates creatures.",
         "quality": "epic",
         "specs": [
           "ENHANCEMENT"
@@ -3850,7 +3850,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1587220",
         "name": "Zephyr",
         "icon": "ability_skyreach_four_wind",
-        "description": "Your Windfury hits increases the damage the target takes from your Windfury Attack and Stormstrike by 2%. Stacks up to 10 times and lasts for 20 sec.",
+        "description": "Your Windfury hits increases the damage the target takes from your Windfury Attack and Stormstrike by 2%. Stacks up to 10 times and lasts for 20 sec.",
         "quality": "epic",
         "specs": [
           "ENHANCEMENT"
@@ -3860,7 +3860,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1589159",
         "name": "Elemental Equilibrium",
         "icon": "ability_shaman_echooftheelements",
-        "description": "Dealing direct damage with a Fire, Frost, and Nature spell within 10 seconds increases your damage with these schools by 8% for 10 sec.",
+        "description": "Dealing direct damage with a Fire, Frost, and Nature spell within 10 seconds increases your damage with these schools by 8% for 10 sec.",
         "quality": "epic",
         "specs": [
           "ELEMENTAL"
@@ -3917,7 +3917,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590417",
         "name": "Fury of the Wind",
         "icon": "spell_nature_cyclone",
-        "description": "Your Windfury Weapon can jump to 2 nearby enemies but each jump reduces its damage by 25%. If no other enemies are nearby the wind jumps to you instead, increasing your armor penetration by 20% for 10 sec.",
+        "description": "Your Windfury Weapon can jump to 2 nearby enemies but each jump reduces its damage by 25%. If no other enemies are nearby the wind jumps to you instead, increasing your armor penetration by 20% for 10 sec.",
         "quality": "epic",
         "specs": [
           "ENHANCEMENT"
@@ -3927,7 +3927,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590423",
         "name": "Defense of Thundarian",
         "icon": "custom_t_nhance_rpg_icons_magicblock_border",
-        "description": "Dealing damage with Windfury grants you Defense of Thundarian. \\n Defense of Thundarian \\n Reduces your magic damage taken by 3% and increases your armor by 10%. Lasts 6 sec.",
+        "description": "Dealing damage with Windfury grants you Defense of Thundarian. \\n Defense of Thundarian \\n Reduces your magic damage taken by 3% and increases your armor by 10%. Lasts 6 sec.",
         "quality": "epic",
         "specs": [
           "ENHANCEMENT"
@@ -4179,7 +4179,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "63280",
         "name": "Glyph of Totem of Wrath",
         "icon": "spell_fire_totemofwrath",
-        "description": "When you cast Totem of Wrath, you gain 30% of the totem's bonus spell power for 5 min.",
+        "description": "When you cast Totem of Wrath, you gain 30% of the totem's bonus spell power for 5 min.",
         "quality": "rare",
         "specs": [
           "ELEMENTAL"
@@ -4509,7 +4509,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1316240",
         "name": "Ancestral Healing",
         "icon": "spell_nature_undyingstrength",
-        "description": "Crossover Talent Reduces your target's physical damage taken by 10% for 15 sec after getting a critical effect from one of your healing spells. This Mystic Enchant does not stack with the Ancestral Healing Talent.",
+        "description": "Crossover Talent Reduces your target's physical damage taken by 10% for 15 sec after getting a critical effect from one of your healing spells. This Mystic Enchant does not stack with the Ancestral Healing Talent.",
         "quality": "rare",
         "specs": [
           "RESTORATION"
@@ -4749,7 +4749,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1329180",
         "name": "Elemental Devastation",
         "icon": "spell_fire_elementaldevastation",
-        "description": "Crossover Talent Your non-periodic offensive spell crits will increase your chance to get a critical strike with melee attacks by 9% for 10 sec. This Mystic Enchant does not stack with the Elemental Devastation Talent.",
+        "description": "Crossover Talent Your non-periodic offensive spell crits will increase your chance to get a critical strike with melee attacks by 9% for 10 sec. This Mystic Enchant does not stack with the Elemental Devastation Talent.",
         "quality": "rare",
         "specs": [
           "ELEMENTAL"
@@ -5076,7 +5076,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1571664",
         "name": "Holy Ascension",
         "icon": "spell_holy_spiritualguidence",
-        "description": "Increases the critical strike chance of your Holy Fire and Smite by 20%. Casting Holy Fire Increases the damage of your next two Smite casts by 20%. When casting Guardian Spirit on yourself you gain Holy Ascension. \\n Holy Ascension \\n Reduces the cooldown of Holy Fire by 50% and Smite triggers a holy explosion around the target. Lasts 10 sec.",
+        "description": "Increases the critical strike chance of your Holy Fire and Smite by 20%. Casting Holy Fire Increases the damage of your next two Smite casts by 20%. When casting Guardian Spirit on yourself you gain Holy Ascension. \\n Holy Ascension \\n Reduces the cooldown of Holy Fire by 50% and Smite triggers a holy explosion around the target. Lasts 10 sec.",
         "quality": "legendary",
         "specs": [
           "HOLY",
@@ -5087,7 +5087,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1572527",
         "name": "Twilight Paragon",
         "icon": "ability_priest_rayofhope",
-        "description": "Dealing direct damage with Smite and Holy Fire grants you Paragon of Light. Shadow Word: Death consumes these stacks to deal Twilight damage based on the number of stacks consumed and granting you Paragon of Darkness. \\n Paragon of Light \\n Increases the damage of your Smite by 1%. Decreases the damage taken from your Shadow Word: Death by 10%. Stacks up to 8 times and lasts 20 sec. \\n Paragon of Darkness \\n Your Mind Flay, Mind Sear and Shadow Word: Pain deal additional Twilight damage and Mind Flay and Mind Sear gain an additional damage tick over their duration. Reduces the pushback suffered from damaging attacks while chanelling Mind Flay and Mind Sear by 70%. Dealing Twilight damage increases the duration of Shadow Word: Pain by 3 sec.",
+        "description": "Dealing direct damage with Smite and Holy Fire grants you Paragon of Light. Shadow Word: Death consumes these stacks to deal Twilight damage based on the number of stacks consumed and granting you Paragon of Darkness. \\n Paragon of Light \\n Increases the damage of your Smite by 1%. Decreases the damage taken from your Shadow Word: Death by 10%. Stacks up to 8 times and lasts 20 sec. \\n Paragon of Darkness \\n Your Mind Flay, Mind Sear and Shadow Word: Pain deal additional Twilight damage and Mind Flay and Mind Sear gain an additional damage tick over their duration. Reduces the pushback suffered from damaging attacks while chanelling Mind Flay and Mind Sear by 70%. Dealing Twilight damage increases the duration of Shadow Word: Pain by 3 sec.",
         "quality": "legendary",
         "specs": [
           "HOLY",
@@ -5354,7 +5354,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1571378",
         "name": "Void Herald: Madness of the Old Gods",
         "icon": "achievement_boss_cthun",
-        "description": "Requires \\n Void Herald: Whispers of the Old Gods\\n Using Shadowfiend summons 3 Tentacle of the Old Gods near the targeted enemy. Summoning a Tentacle of the Old Gods increases your damage by 5% for 10 sec.",
+        "description": "Requires \\n Void Herald: Whispers of the Old Gods\\n Using Shadowfiend summons 3 Tentacle of the Old Gods near the targeted enemy. Summoning a Tentacle of the Old Gods increases your damage by 5% for 10 sec.",
         "quality": "epic",
         "specs": [
           "SHADOW"
@@ -5380,7 +5380,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1571662",
         "name": "Light at the End of the Tunnel",
         "icon": "custom_priestskill_46_nobg_border",
-        "description": "Increases the critical strike chance of your Holy Fire and Smite by 3%. In addition, consuming Surge of Light increases your spell haste by 1% for 18 sec, stacking up to 5 times.",
+        "description": "Increases the critical strike chance of your Holy Fire and Smite by 3%. In addition, consuming Surge of Light increases your spell haste by 1% for 18 sec, stacking up to 5 times.",
         "quality": "epic",
         "specs": [
           "HOLY"
@@ -5461,7 +5461,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1584997",
         "name": "Holy Servitude",
         "icon": "spell_holy_aspiration",
-        "description": "Your Greater Heal heals an additional 12% of its healing over 12 sec. This effect can stack up to 3 times.",
+        "description": "Your Greater Heal heals an additional 12% of its healing over 12 sec. This effect can stack up to 3 times.",
         "quality": "epic",
         "specs": [
           "HOLY",
@@ -5472,7 +5472,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1585419",
         "name": "Faith Rekindled",
         "icon": "ability_essence_reapingflames",
-        "description": "Each time your Renew heals a target they receive Faith. \\n Faith \\n All healing received increased by 1% and healing received from your Renew increased by 5%. Stacks up to 3 times. Lasts 4 sec.",
+        "description": "Each time your Renew heals a target they receive Faith. \\n Faith \\n All healing received increased by 1% and healing received from your Renew increased by 5%. Stacks up to 3 times. Lasts 4 sec.",
         "quality": "epic",
         "specs": [
           "HOLY",
@@ -5493,7 +5493,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1586239",
         "name": "Good Fortune",
         "icon": "item_holyspark",
-        "description": "Requires \\n Serendipity\\n Casting Renew triggers Serendipity. Consuming a fully stacked Serendipity increases your Holy spell critical strike chance by 7% for 12 sec.",
+        "description": "Requires \\n Serendipity\\n Casting Renew triggers Serendipity. Consuming a fully stacked Serendipity increases your Holy spell critical strike chance by 7% for 12 sec.",
         "quality": "epic",
         "specs": [
           "HOLY"
@@ -5506,7 +5506,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1586988",
         "name": "Power of Generosity",
         "icon": "spell_holy_powerinfusion",
-        "description": "Casting Power Infusion on an ally grants you Power of Generosity. Reduces cooldown of Power Infusion by 30%. \\n Power of Generosity \\n Infuses yourself with power, increasing spell casting speed by 10% and reducing the mana cost of all spells by 10%. Lasts 15 sec.",
+        "description": "Casting Power Infusion on an ally grants you Power of Generosity. Reduces cooldown of Power Infusion by 30%. \\n Power of Generosity \\n Infuses yourself with power, increasing spell casting speed by 10% and reducing the mana cost of all spells by 10%. Lasts 15 sec.",
         "quality": "epic",
         "specs": [
           "DISCIPLINE"
@@ -5516,7 +5516,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1587114",
         "name": "Centered",
         "icon": "spell_holy_pureofheart",
-        "description": "Casting Flash Heal, Greater Heal, Penance, Prayer of Healing, Circle of Healing and Binding Heal grants you Centered. \\n Centered \\n Your Smite, Holy Fire, and Penance deal 2% increased damage and have 3% increased chance to hit. Stacks up to 5 times and lasts 10 sec.",
+        "description": "Casting Flash Heal, Greater Heal, Penance, Prayer of Healing, Circle of Healing and Binding Heal grants you Centered. \\n Centered \\n Your Smite, Holy Fire, and Penance deal 2% increased damage and have 3% increased chance to hit. Stacks up to 5 times and lasts 10 sec.",
         "quality": "epic",
         "specs": [
           "HOLY",
@@ -5619,7 +5619,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "55680",
         "name": "Glyph of Prayer of Healing",
         "icon": "spell_holy_prayerofhealing02",
-        "description": "Your Prayer of Healing spell also heals an additional 25% of its initial heal over 6 sec.",
+        "description": "Your Prayer of Healing spell also heals an additional 25% of its initial heal over 6 sec.",
         "quality": "rare",
         "specs": [
           "HOLY"
@@ -5709,7 +5709,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "55689",
         "name": "Glyph of Shadow",
         "icon": "spell_shadow_shadowform",
-        "description": "Requires \\n Shadowform\\n While in Shadowform, your non-periodic spell critical strikes increase your spell power by 30% of your Spirit for 10 sec.",
+        "description": "Requires \\n Shadowform\\n While in Shadowform, your non-periodic spell critical strikes increase your spell power by 30% of your Spirit for 10 sec.",
         "quality": "rare",
         "specs": [
           "SHADOW"
@@ -5892,7 +5892,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1314774",
         "name": "Martyrdom",
         "icon": "spell_nature_tranquility",
-        "description": "Crossover Talent Gives you a 100% chance to gain the Focused Casting effect that lasts for 6 sec after being the victim of a melee or ranged critical strike. The Focused Casting effect reduces the pushback suffered from damaging attacks while casting Priest spells and decreases the duration of Interrupt effects by 20%. This Mystic Enchant does not stack with the Martyrdom Talent.",
+        "description": "Crossover Talent Gives you a 100% chance to gain the Focused Casting effect that lasts for 6 sec after being the victim of a melee or ranged critical strike. The Focused Casting effect reduces the pushback suffered from damaging attacks while casting Priest spells and decreases the duration of Interrupt effects by 20%. This Mystic Enchant does not stack with the Martyrdom Talent.",
         "quality": "rare",
         "specs": [
           "DISCIPLINE"
@@ -6092,7 +6092,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1315316",
         "name": "Improved Mind Blast",
         "icon": "spell_shadow_unholyfrenzy",
-        "description": "Crossover Talent Reduces the cooldown of your Mind Blast spell by 2.5 sec., and while in Shadowform your Mind Blast also has a 100% chance to reduce all healing done to the target by 20% for 10 sec. This Mystic Enchant does not stack with the Improved Mind Blast Talent.",
+        "description": "Crossover Talent Reduces the cooldown of your Mind Blast spell by 2.5 sec., and while in Shadowform your Mind Blast also has a 100% chance to reduce all healing done to the target by 20% for 10 sec. This Mystic Enchant does not stack with the Improved Mind Blast Talent.",
         "quality": "rare",
         "specs": [
           "SHADOW"
@@ -6172,7 +6172,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1315332",
         "name": "Shadow Weaving",
         "icon": "spell_shadow_blackplague",
-        "description": "Crossover Talent Your Shadow damage spells have a 100% chance to increase the Shadow damage you deal by 2% for 15 sec. Stacks up to 5 times. This Mystic Enchant does not stack with the Shadow Weaving Talent.",
+        "description": "Crossover Talent Your Shadow damage spells have a 100% chance to increase the Shadow damage you deal by 2% for 15 sec. Stacks up to 5 times. This Mystic Enchant does not stack with the Shadow Weaving Talent.",
         "quality": "rare",
         "specs": [
           "SHADOW"
@@ -6192,7 +6192,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1315336",
         "name": "Spirit Tap",
         "icon": "spell_shadow_requiem",
-        "description": "Crossover Talent Gives you a 100% chance to gain a 100% bonus to your Spirit after killing a target that yields experience or honor. For the duration, your mana will regenerate at a 83% rate while casting. Lasts 15 sec. This Mystic Enchant does not stack with the Spirit Tap Talent.",
+        "description": "Crossover Talent Gives you a 100% chance to gain a 100% bonus to your Spirit after killing a target that yields experience or honor. For the duration, your mana will regenerate at a 83% rate while casting. Lasts 15 sec. This Mystic Enchant does not stack with the Spirit Tap Talent.",
         "quality": "rare",
         "specs": [
           "SHADOW"
@@ -6212,7 +6212,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1315338",
         "name": "Improved Spirit Tap",
         "icon": "spell_shadow_requiem",
-        "description": "Crossover Talent Your Mind Blast and Shadow Word: Death critical strikes have a 100% chance and your Mind Flay critical strikes have a 50% chance to increase your total Spirit by 30%. For the duration, your mana will regenerate at a 33% rate while casting. Lasts 10 sec. This Mystic Enchant does not stack with the Improved Spirit Tap Talent.",
+        "description": "Crossover Talent Your Mind Blast and Shadow Word: Death critical strikes have a 100% chance and your Mind Flay critical strikes have a 50% chance to increase your total Spirit by 30%. For the duration, your mana will regenerate at a 33% rate while casting. Lasts 10 sec. This Mystic Enchant does not stack with the Improved Spirit Tap Talent.",
         "quality": "rare",
         "specs": [
           "SHADOW"
@@ -6232,7 +6232,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1315363",
         "name": "Inspiration",
         "icon": "spell_holy_layonhands",
-        "description": "Crossover Talent Reduces your target's physical damage taken by 10% for 15 sec after getting a critical effect from your Flash Heal, Heal, Greater Heal, Binding Heal, Penance, Prayer of Mending, Prayer of Healing, or Circle of Healing spell. This Mystic Enchant does not stack with the Inspiration Talent.",
+        "description": "Crossover Talent Reduces your target's physical damage taken by 10% for 15 sec after getting a critical effect from your Flash Heal, Heal, Greater Heal, Binding Heal, Penance, Prayer of Mending, Prayer of Healing, or Circle of Healing spell. This Mystic Enchant does not stack with the Inspiration Talent.",
         "quality": "rare",
         "specs": [
           "HOLY"
@@ -6352,7 +6352,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1327816",
         "name": "Blessed Recovery",
         "icon": "spell_holy_blessedrecovery",
-        "description": "Crossover Talent After being struck by a melee or ranged critical hit, Blessed Recovery heals you for 15% of the damage taken over 6 sec. Additional critical hits taken during the effect increase the healing received. This Mystic Enchant does not stack with the Blessed Recovery Talent.",
+        "description": "Crossover Talent After being struck by a melee or ranged critical hit, Blessed Recovery heals you for 15% of the damage taken over 6 sec. Additional critical hits taken during the effect increase the healing received. This Mystic Enchant does not stack with the Blessed Recovery Talent.",
         "quality": "rare",
         "specs": [
           "HOLY"
@@ -6671,7 +6671,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1570908",
         "name": "Endless Agony",
         "icon": "ability_warlock_improvedsoulleech",
-        "description": "Dealing damage with Curse of Agony applies Endless Agony. Dealing damage with Drain Life reduces the active duration and cooldown of your Curse of Doom by 3 sec. After a target of your Curse of Agony dies, any stacks of Endless Agony will be spread to nearby enemies within 10 yards. \\n Endless Agony \\n Increases your damage dealt to the target with Curse of Agony by 3% and Curse of Doom by 6%. Stacks up to 20 times and lasts for 12 sec.",
+        "description": "Dealing damage with Curse of Agony applies Endless Agony. Dealing damage with Drain Life reduces the active duration and cooldown of your Curse of Doom by 3 sec. After a target of your Curse of Agony dies, any stacks of Endless Agony will be spread to nearby enemies within 10 yards. \\n Endless Agony \\n Increases your damage dealt to the target with Curse of Agony by 3% and Curse of Doom by 6%. Stacks up to 20 times and lasts for 12 sec.",
         "quality": "legendary",
         "specs": [
           "AFFLICTION"
@@ -6732,7 +6732,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180470",
         "name": "Agonizing Coil",
         "icon": "_deathcoil_color_purple",
-        "description": "Using Death Coil applies Curse of Agony on the target and harvests their essence, granting you 10% increased chance to critically strike with spells for 15 sec. The cooldown of Death Coil is reduced by 90 sec, however it no longer causes the target to run in horror.",
+        "description": "Using Death Coil applies Curse of Agony on the target and harvests their essence, granting you 10% increased chance to critically strike with spells for 15 sec. The cooldown of Death Coil is reduced by 90 sec, however it no longer causes the target to run in horror.",
         "quality": "epic",
         "specs": [
           "AFFLICTION"
@@ -6798,7 +6798,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180940",
         "name": "Sudden Aftermath",
         "icon": "spell_fire_immolation",
-        "description": "Casting Immolate on a monster which is not in combat triggers Aftermath, slowing it by 70% for 5 sec. In addition, your Aftermath increases the damage of your Immolate by 10%.",
+        "description": "Casting Immolate on a monster which is not in combat triggers Aftermath, slowing it by 70% for 5 sec. In addition, your Aftermath increases the damage of your Immolate by 10%.",
         "quality": "epic",
         "specs": [
           "DESTRUCTION"
@@ -6854,7 +6854,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1567541",
         "name": "Heating Up!",
         "icon": "achievement_firelands_raid_ragnaros",
-        "description": "Dealing direct damage with Conflagrate applies Heating Up!. Increases the critical chance of your Conflagrate by 15%. \\n Heating Up! \\n You deal 2% increased Fire damage to the target. Stacks up to 5 times and lasts for 15 sec.",
+        "description": "Dealing direct damage with Conflagrate applies Heating Up!. Increases the critical chance of your Conflagrate by 15%. \\n Heating Up! \\n You deal 2% increased Fire damage to the target. Stacks up to 5 times and lasts for 15 sec.",
         "quality": "epic",
         "specs": [
           "DESTRUCTION"
@@ -6880,7 +6880,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1571016",
         "name": "Wild Felfire",
         "icon": "spell_fire_felrainoffire",
-        "description": "Dealing damage with Chaos Bolt calls down a fiery rain, dealing 84*$ + SP *0.04 Fire damage to nearby enemies every second for 4 sec.",
+        "description": "Dealing damage with Chaos Bolt calls down a fiery rain, dealing 84*$ + SP *0.04 Fire damage to nearby enemies every second for 4 sec.",
         "quality": "epic",
         "specs": [
           "DESTRUCTION"
@@ -6893,7 +6893,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1572035",
         "name": "Pure Shadow",
         "icon": "_seed_shadow",
-        "description": "Casting offsensive Shadow spells increases the damage of Shadow Bolt by 1%, Shadow Crash by 5% and Shadowfury by 10%. Lasts for 15 sec and stacks up to 6 times.",
+        "description": "Casting offsensive Shadow spells increases the damage of Shadow Bolt by 1%, Shadow Crash by 5% and Shadowfury by 10%. Lasts for 15 sec and stacks up to 6 times.",
         "quality": "epic",
         "specs": [
           "DESTRUCTION"
@@ -6903,7 +6903,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1576077",
         "name": "Demonic Siphon",
         "icon": "_d3wallofzombies",
-        "description": "When your Drain Life deals damage it also heals your summoned demon for 2% of its health and increases its damage by 3%, stacking up to 5 times. Lasts for 10 sec.",
+        "description": "When your Drain Life deals damage it also heals your summoned demon for 2% of its health and increases its damage by 3%, stacking up to 5 times. Lasts for 10 sec.",
         "quality": "epic",
         "specs": [
           "DEMONOLOGY"
@@ -6943,7 +6943,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1577360",
         "name": "Cursed Shadows",
         "icon": "spell_shadow_soulleech_3",
-        "description": "Dealing damage with Curse of Agony has a 30% chance to increase the damage of your next Shadow Bolt by 20% and to reduce its mana cost by 20%. Lasts for 12 sec.",
+        "description": "Dealing damage with Curse of Agony has a 30% chance to increase the damage of your next Shadow Bolt by 20% and to reduce its mana cost by 20%. Lasts for 12 sec.",
         "quality": "epic",
         "specs": [
           "AFFLICTION"
@@ -6966,7 +6966,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1578703",
         "name": "Gul'dan's Chosen",
         "icon": "achievement_thenighthold_guldan",
-        "description": "Casting Chaos Bolt causes your Destruction spells to not consume Backdraft for 4 sec.",
+        "description": "Casting Chaos Bolt causes your Destruction spells to not consume Backdraft for 4 sec.",
         "quality": "epic",
         "specs": [
           "DESTRUCTION"
@@ -6992,7 +6992,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1581729",
         "name": "Chaos Manifesting",
         "icon": "ability_warlock_chaosbolt",
-        "description": "After casting Chaos Bolt, you receive a Fire or Shadow Empowerment, increasing your damage dealt with that school by 10% for 10 sec.",
+        "description": "After casting Chaos Bolt, you receive a Fire or Shadow Empowerment, increasing your damage dealt with that school by 10% for 10 sec.",
         "quality": "epic",
         "specs": [
           "DESTRUCTION"
@@ -7005,7 +7005,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1583447",
         "name": "Fire Attunement",
         "icon": "ability_warlock_fireandbrimstone",
-        "description": "Dealing damage with Immolate grants you Fire Attunement. \\n Fire Attunement \\n Increases the chance to trigger your next Molten Core talent by 1%. Stacks up to 15 and lasts 15 sec.",
+        "description": "Dealing damage with Immolate grants you Fire Attunement. \\n Fire Attunement \\n Increases the chance to trigger your next Molten Core talent by 1%. Stacks up to 15 and lasts 15 sec.",
         "quality": "epic",
         "specs": [
           "DEMONOLOGY"
@@ -7018,7 +7018,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1583583",
         "name": "Dusk Till Dawn",
         "icon": "5_warlock27_border",
-        "description": "Casting Shadow Bolt, Incinerate, Soul Fire, Searing Pain or Chaos Bolt grants you Dusk Till Dawn. \\n Dusk Till Dawn \\n Increases the damage of your next Shadowburn by 10%. Stacks up to 5 times and lasts 15 sec. When used with at least 3 stacks, Shadowburn hits 2 additional targets, applies Corruption to the targets and doesn't cost a Soul Shard.",
+        "description": "Casting Shadow Bolt, Incinerate, Soul Fire, Searing Pain or Chaos Bolt grants you Dusk Till Dawn. \\n Dusk Till Dawn \\n Increases the damage of your next Shadowburn by 10%. Stacks up to 5 times and lasts 15 sec. When used with at least 3 stacks, Shadowburn hits 2 additional targets, applies Corruption to the targets and doesn't cost a Soul Shard.",
         "quality": "epic",
         "specs": [
           "DESTRUCTION"
@@ -7364,7 +7364,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "63320",
         "name": "Glyph of Life Tap",
         "icon": "spell_shadow_burningspirit",
-        "description": "When you use Life Tap or Dark Pact, you gain 20% of your Spirit as spell power for 40 sec.",
+        "description": "When you use Life Tap or Dark Pact, you gain 20% of your Spirit as spell power for 40 sec.",
         "quality": "rare",
         "specs": [
           "AFFLICTION"
@@ -7444,7 +7444,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1317803",
         "name": "Improved Shadow Bolt",
         "icon": "spell_shadow_shadowbolt",
-        "description": "Crossover Talent Increases the damage done by your Shadow Bolt spell by 10%, and your Shadow Bolt has a 100% chance to cause your target to be vulnerable to spell damage, increasing spell critical strike chance against that target by 5%. Effect lasts 30 sec. This Mystic Enchant does not stack with the Improved Shadow Bolt Talent.",
+        "description": "Crossover Talent Increases the damage done by your Shadow Bolt spell by 10%, and your Shadow Bolt has a 100% chance to cause your target to be vulnerable to spell damage, increasing spell critical strike chance against that target by 5%. Effect lasts 30 sec. This Mystic Enchant does not stack with the Improved Shadow Bolt Talent.",
         "quality": "rare",
         "specs": [
           "DESTRUCTION"
@@ -7564,7 +7564,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1318120",
         "name": "Aftermath",
         "icon": "spell_fire_fire",
-        "description": "Crossover Talent Increases the periodic damage done by your Immolate by 6%, and your Conflagrate has a 100% chance to daze the target for 5 sec. This Mystic Enchant does not stack with the Aftermath Talent.",
+        "description": "Crossover Talent Increases the periodic damage done by your Immolate by 6%, and your Conflagrate has a 100% chance to daze the target for 5 sec. This Mystic Enchant does not stack with the Aftermath Talent.",
         "quality": "rare",
         "specs": [
           "DESTRUCTION"
@@ -8004,7 +8004,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1353759",
         "name": "Improved Fear",
         "icon": "spell_shadow_possession",
-        "description": "Crossover Talent Causes your Fear spell to inflict a Nightmare on the target when the fear effect ends. The Nightmare effect reduces the target's movement speed by 30% for 5 sec. This Mystic Enchant does not stack with the Improved Fear Talent.",
+        "description": "Crossover Talent Causes your Fear spell to inflict a Nightmare on the target when the fear effect ends. The Nightmare effect reduces the target's movement speed by 30% for 5 sec. This Mystic Enchant does not stack with the Improved Fear Talent.",
         "quality": "rare",
         "specs": [
           "AFFLICTION"
@@ -8108,7 +8108,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1181410",
         "name": "Cauterize",
         "icon": "spell_fire_rune",
-        "description": "An attack which would otherwise kill you will instead bring you to 35% of your maximum health. When this happens all movement speed imparing effects are removed and you gain 50% movement speed for 6 sec, but burn taking 3% of your health as Fire damage every second. This effect can only occur once every minute.",
+        "description": "An attack which would otherwise kill you will instead bring you to 35% of your maximum health. When this happens all movement speed imparing effects are removed and you gain 50% movement speed for 6 sec, but burn taking 3% of your health as Fire damage every second. This effect can only occur once every minute.",
         "quality": "artifact",
         "specs": [
           "FIRE"
@@ -8348,7 +8348,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180420",
         "name": "Elemental Torrent",
         "icon": "inv_waterelementalmount",
-        "description": "When your Water Elemental deals damage with Waterbolt you gain 1% haste for 10 sec, stacking up to 6 times.",
+        "description": "When your Water Elemental deals damage with Waterbolt you gain 1% haste for 10 sec, stacking up to 6 times.",
         "quality": "epic",
         "specs": [
           "FROST"
@@ -8492,7 +8492,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1569578",
         "name": "Frozen Haste",
         "icon": "spell_frost_arcticwinds",
-        "description": "Your Frost Bomb explosion increases your spell haste by 10% for 8 sec. The duration is increased by 3 sec for each additional target hit, up to a maximum of 20 sec.",
+        "description": "Your Frost Bomb explosion increases your spell haste by 10% for 8 sec. The duration is increased by 3 sec for each additional target hit, up to a maximum of 20 sec.",
         "quality": "epic",
         "specs": [
           "FROST"
@@ -8575,7 +8575,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1580792",
         "name": "Wanding",
         "icon": "ability_shootwand",
-        "description": "Wand attacks grant you stacks that increase the cast speed of your next spell by 5%, stacks up to 5 times and lasts 6 sec.",
+        "description": "Wand attacks grant you stacks that increase the cast speed of your next spell by 5%, stacks up to 5 times and lasts 6 sec.",
         "quality": "epic",
         "specs": []
       },
@@ -8583,7 +8583,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1582381",
         "name": "Frozen Flesh",
         "icon": "ability_monk_counteractmagic",
-        "description": "Your Deep Freeze applies Frozen Flesh to your target. If you're dealing damage with Deep Freeze it also triggers Brain Freeze. \\n Frozen Flesh \\n Your next 2 Fire spells shatter the target's flesh, dealing (330+21.0 Points Per Level)*$ +SP*0.4 Frostfire damage. Lasts for 15 sec.",
+        "description": "Your Deep Freeze applies Frozen Flesh to your target. If you're dealing damage with Deep Freeze it also triggers Brain Freeze. \\n Frozen Flesh \\n Your next 2 Fire spells shatter the target's flesh, dealing (330+21.0 Points Per Level)*$ +SP*0.4 Frostfire damage. Lasts for 15 sec.",
         "quality": "epic",
         "specs": [
           "FROST"
@@ -8626,7 +8626,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1583854",
         "name": "Scorched Ground",
         "icon": "spell_druid_sunfall",
-        "description": "When your Living Bomb explodes it scorches the ground, burning enemies within the area for 93*$ + SP *0.122 Fire damage every second for 8 sec. Also, targets affected by your Living Bomb takes 10% more damage from your Living Bomb explosions. This effect can only occur once every 8 seconds.",
+        "description": "When your Living Bomb explodes it scorches the ground, burning enemies within the area for 93*$ + SP *0.122 Fire damage every second for 8 sec. Also, targets affected by your Living Bomb takes 10% more damage from your Living Bomb explosions. This effect can only occur once every 8 seconds.",
         "quality": "epic",
         "specs": [
           "FIRE"
@@ -8686,7 +8686,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1585312",
         "name": "Infused Gems",
         "icon": "inv_misc_gem_variety_01",
-        "description": "Mana Gem grants 8% spell haste and critical strike chance for 12 sec when used. Newly created Mana Gems have unlimited charges.",
+        "description": "Mana Gem grants 8% spell haste and critical strike chance for 12 sec when used. Newly created Mana Gems have unlimited charges.",
         "quality": "epic",
         "specs": [
           "ARCANE"
@@ -8771,7 +8771,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "56364",
         "name": "Glyph of Remove Curse",
         "icon": "spell_holy_removecurse",
-        "description": "Your Remove Curse spell also makes the target immune to all curses for 4 sec.",
+        "description": "Your Remove Curse spell also makes the target immune to all curses for 4 sec.",
         "quality": "rare",
         "specs": [
           "ARCANE"
@@ -9151,7 +9151,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1312358",
         "name": "Impact",
         "icon": "spell_fire_meteorstorm",
-        "description": "Crossover Talent Gives your damaging spells a 10% chance to cause the next Fire Blast you cast to stun the target for 2 sec. This Mystic Enchant does not stack with the Impact Talent.",
+        "description": "Crossover Talent Gives your damaging spells a 10% chance to cause the next Fire Blast you cast to stun the target for 2 sec. This Mystic Enchant does not stack with the Impact Talent.",
         "quality": "rare",
         "specs": [
           "FIRE"
@@ -9191,7 +9191,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1312488",
         "name": "Improved Blizzard",
         "icon": "spell_frost_icestorm",
-        "description": "Crossover Talent Adds a chill effect to your Blizzard spell. This effect lowers the target's movement speed by 50%. Lasts 1.5 sec. This Mystic Enchant does not stack with the Improved Blizzard Talent.",
+        "description": "Crossover Talent Adds a chill effect to your Blizzard spell. This effect lowers the target's movement speed by 50%. Lasts 1.5 sec. This Mystic Enchant does not stack with the Improved Blizzard Talent.",
         "quality": "rare",
         "specs": [
           "FROST"
@@ -9211,7 +9211,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1312497",
         "name": "Frostbite",
         "icon": "spell_frost_frostarmor",
-        "description": "Crossover Talent Gives your Chill effects a 15% chance to freeze the target for 5 sec. This Mystic Enchant does not stack with the Frostbite Talent.",
+        "description": "Crossover Talent Gives your Chill effects a 15% chance to freeze the target for 5 sec. This Mystic Enchant does not stack with the Frostbite Talent.",
         "quality": "rare",
         "specs": [
           "FROST"
@@ -9311,7 +9311,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1312598",
         "name": "Improved Counterspell",
         "icon": "spell_frost_iceshock",
-        "description": "Crossover Talent Your Counterspell also silences the target for 4 sec. This Mystic Enchant does not stack with the Improved Counterspell Talent.",
+        "description": "Crossover Talent Your Counterspell also silences the target for 4 sec. This Mystic Enchant does not stack with the Improved Counterspell Talent.",
         "quality": "rare",
         "specs": [
           "ARCANE"
@@ -9391,7 +9391,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1312848",
         "name": "Ignite",
         "icon": "spell_fire_incinerate",
-        "description": "Crossover Talent Your critical strikes from Fire damage spells cause the target to burn for an additional 40% of your spell's damage over 4 sec. This Mystic Enchant does not stack with the Ignite Talent.",
+        "description": "Crossover Talent Your critical strikes from Fire damage spells cause the target to burn for an additional 40% of your spell's damage over 4 sec. This Mystic Enchant does not stack with the Ignite Talent.",
         "quality": "rare",
         "specs": [
           "FIRE"
@@ -9411,7 +9411,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1312873",
         "name": "Improved Scorch",
         "icon": "spell_fire_soulburn",
-        "description": "Crossover Talent Increases your chance to critically hit with Scorch, Fireball and Frostfire Bolt by an additional 3% and your damaging Scorch spells have a 100% chance to cause your target to be vulnerable to spell damage, increasing spell critical strike chance against that target by 5% and lasts 30 sec. This Mystic Enchant does not stack with the Improved Scorch Talent.",
+        "description": "Crossover Talent Increases your chance to critically hit with Scorch, Fireball and Frostfire Bolt by an additional 3% and your damaging Scorch spells have a 100% chance to cause your target to be vulnerable to spell damage, increasing spell critical strike chance against that target by 5% and lasts 30 sec. This Mystic Enchant does not stack with the Improved Scorch Talent.",
         "quality": "rare",
         "specs": [
           "FIRE"
@@ -9807,7 +9807,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1582821",
         "name": "Fiery Power Well",
         "icon": "spell_shadow_shadowandflame",
-        "description": "Casting damaging Fire spells has a 15% chance to make your next non-Fire spell within 10 sec have no cost.",
+        "description": "Casting damaging Fire spells has a 15% chance to make your next non-Fire spell within 10 sec have no cost.",
         "quality": "rare",
         "specs": [
           "FIRE"
@@ -9969,7 +9969,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398214",
         "name": "Crimson Hunger",
         "icon": "ability_revendreth_rogue",
-        "description": "Crimson Tempest deals 50% increased damage to your main target. When Wound Poison strikes a bleeding enemy, it deals additional bleed damage and puts you into a Crimson Hunger. \\n Crimson Hunger \\n Increases the damage of your Rogue bleeds by 2% for 20 sec seconds, stacking up to 30 times.",
+        "description": "Crimson Tempest deals 50% increased damage to your main target. When Wound Poison strikes a bleeding enemy, it deals additional bleed damage and puts you into a Crimson Hunger. \\n Crimson Hunger \\n Increases the damage of your Rogue bleeds by 2% for 20 sec seconds, stacking up to 30 times.",
         "quality": "legendary",
         "specs": [
           "ASSASSINATION"
@@ -9979,7 +9979,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1570737",
         "name": "Festering Wound",
         "icon": "ability_rogue_deviouspoisons",
-        "description": "Your Mutilate critical strikes apply Festering Wound. In addition, your Deadly Poison can stack up to 8 and your Envenom damage is increased by 5% for each stack above 5. \\n Festering Wound \\n Increases your Nature damage dealt to the target by 1%. Stacks up to 5 times and lasts 10 sec.",
+        "description": "Your Mutilate critical strikes apply Festering Wound. In addition, your Deadly Poison can stack up to 8 and your Envenom damage is increased by 5% for each stack above 5. \\n Festering Wound \\n Increases your Nature damage dealt to the target by 1%. Stacks up to 5 times and lasts 10 sec.",
         "quality": "legendary",
         "specs": [
           "ASSASSINATION"
@@ -9992,7 +9992,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1571129",
         "name": "Assuaging Shadows",
         "icon": "spell_shadow_shadesofdarkness",
-        "description": "Using Shadow Dance causes a shadow eruption, slowing nearby enemies by 70% for 2 sec and applying 3 shadow marks. Using Ambush on a marked enemy allows you to ignore the cooldown of Shadowstep for 2 sec and increases your damage done by 6% for 10 sec. Using Shadowstep grants you 20 energy. Only 1 mark is applied versus players.",
+        "description": "Using Shadow Dance causes a shadow eruption, slowing nearby enemies by 70% for 2 sec and applying 3 shadow marks. Using Ambush on a marked enemy allows you to ignore the cooldown of Shadowstep for 2 sec and increases your damage done by 6% for 10 sec. Using Shadowstep grants you 20 energy. Only 1 mark is applied versus players.",
         "quality": "legendary",
         "specs": [
           "SUBTLETY"
@@ -10015,7 +10015,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1587050",
         "name": "Rush of Blood",
         "icon": "ability_xavius_crushingshadows",
-        "description": "Using Hemorrhage twice in a row grants you Rush of Blood. Reduces the energy cost of Ambush by 10 and you no longer have to be behind monsters to use Ambush. \\n Rush of Blood \\n Your next Ambush can be cast outside of Stealth. Lasts for 12 sec.",
+        "description": "Using Hemorrhage twice in a row grants you Rush of Blood. Reduces the energy cost of Ambush by 10 and you no longer have to be behind monsters to use Ambush. \\n Rush of Blood \\n Your next Ambush can be cast outside of Stealth. Lasts for 12 sec.",
         "quality": "legendary",
         "specs": [
           "SUBTLETY"
@@ -10028,7 +10028,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1589486",
         "name": "Chasin' the Rush",
         "icon": "rogue_burstofspeed",
-        "description": "Your finishing moves have a 4% chance per combo point spent to grant you 20% energy regeneration and 20% attack speed for 10 sec.",
+        "description": "Your finishing moves have a 4% chance per combo point spent to grant you 20% energy regeneration and 20% attack speed for 10 sec.",
         "quality": "legendary",
         "specs": [
           "COMBAT"
@@ -10083,7 +10083,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180400",
         "name": "Bloodshed",
         "icon": "ability_ironmaidens_corruptedblood",
-        "description": "Using Hunger for Blood increases the damage of your Rogue bleed effects by 15% for 10 sec and causes the target to take 30% additional damage from bleed effects for 30 sec. In addition, your Hunger for Blood has no energy cost and generates 10 energy when used. The additional bleed damage taken does not stack with other similar effects.",
+        "description": "Using Hunger for Blood increases the damage of your Rogue bleed effects by 15% for 10 sec and causes the target to take 30% additional damage from bleed effects for 30 sec. In addition, your Hunger for Blood has no energy cost and generates 10 energy when used. The additional bleed damage taken does not stack with other similar effects.",
         "quality": "epic",
         "specs": [
           "ASSASSINATION"
@@ -10129,7 +10129,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1181150",
         "name": "Fatal Counter",
         "icon": "ability_rogue_bladetwisting",
-        "description": "Increases the damage of Riposte by 10%. Killing an opponent that yields experience or honor allows one use of Riposte for 10 sec.",
+        "description": "Increases the damage of Riposte by 10%. Killing an opponent that yields experience or honor allows one use of Riposte for 10 sec.",
         "quality": "epic",
         "specs": [
           "COMBAT"
@@ -10195,7 +10195,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1573425",
         "name": "Venomous Edge",
         "icon": "ability_rogue_poisonedknife",
-        "description": "Dealing damage with Envenom increases the critical strike chance of your combo point generating abilities by 3%. Stacks up to 3 times and lasts for 15 sec. In addition, using Kingsbane triggers Overkill (if learned).",
+        "description": "Dealing damage with Envenom increases the critical strike chance of your combo point generating abilities by 3%. Stacks up to 3 times and lasts for 15 sec. In addition, using Kingsbane triggers Overkill (if learned).",
         "quality": "epic",
         "specs": [
           "ASSASSINATION"
@@ -10238,7 +10238,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1582405",
         "name": "Repartee",
         "icon": "ability_parry",
-        "description": "Reduces the cooldown of Feint by 4 seconds, and Feint enables the use of Riposte for 6 sec. Riposte has 20% increased critical strike chance when used this way.",
+        "description": "Reduces the cooldown of Feint by 4 seconds, and Feint enables the use of Riposte for 6 sec. Riposte has 20% increased critical strike chance when used this way.",
         "quality": "epic",
         "specs": [
           "COMBAT"
@@ -10248,7 +10248,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1583657",
         "name": "Massacre",
         "icon": "ability_rogue_dirtydeeds",
-        "description": "Killing Spree also deals 100% weapon damage to nearby enemies and applies Massacre to all targets hit. Dealing damage with Sinister Strike reduces the cooldown of Killing Spree by 2 sec. \\n Massacre \\n Damage done to the target from the Rogue is increased by 2%. Stacks up to 5 times and lasts for 30 sec.",
+        "description": "Killing Spree also deals 100% weapon damage to nearby enemies and applies Massacre to all targets hit. Dealing damage with Sinister Strike reduces the cooldown of Killing Spree by 2 sec. \\n Massacre \\n Damage done to the target from the Rogue is increased by 2%. Stacks up to 5 times and lasts for 30 sec.",
         "quality": "epic",
         "specs": [
           "COMBAT"
@@ -10287,7 +10287,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1589904",
         "name": "Blade Vortex",
         "icon": "ability_butcher_whirl",
-        "description": "Your damaging melee finishing moves have a 20% chance per combo point to reduce the cooldown of Blade Flurry by 5 sec and while Blade Flurry is active to also create a Blade Vortex. Damaging casts of Fan of Knives grants 1 combo point while Blade Flurry is active. \\n Blade Vortex \\n Deals 90*$ Physical damage to nearby enemies every second for 3 sec. When triggered, increases the duration of Blade Flurry by 3 seconds.",
+        "description": "Your damaging melee finishing moves have a 20% chance per combo point to reduce the cooldown of Blade Flurry by 5 sec and while Blade Flurry is active to also create a Blade Vortex. Damaging casts of Fan of Knives grants 1 combo point while Blade Flurry is active. \\n Blade Vortex \\n Deals 90*$ Physical damage to nearby enemies every second for 3 sec. When triggered, increases the duration of Blade Flurry by 3 seconds.",
         "quality": "epic",
         "specs": [
           "COMBAT"
@@ -10343,7 +10343,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1691129",
         "name": "Shattering Execution",
         "icon": "epic_rpg_icon_pack_poison_icon_0002s_0000_poison-nova_border",
-        "description": "Your Eviscerate and Dispatch have a 20% chance per combo point to shatter your target's armor, allowing your attacks to ignore 8% (5% against players) its armor for 15 sec, stacking up to 5 times.",
+        "description": "Your Eviscerate and Dispatch have a 20% chance per combo point to shatter your target's armor, allowing your attacks to ignore 8% (5% against players) its armor for 15 sec, stacking up to 5 times.",
         "quality": "epic",
         "specs": [
           "ARMS"
@@ -11028,7 +11028,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1314148",
         "name": "Remorseless Attacks",
         "icon": "ability_fiegndead",
-        "description": "Crossover Talent After killing an opponent that yields experience or honor, gives you a 40% increased critical strike chance on your next Sinister Strike, Hemorrhage, Backstab, Mutilate, Ambush, or Ghostly Strike. Lasts 20 sec. This Mystic Enchant does not stack with the Remorseless Attacks Talent.",
+        "description": "Crossover Talent After killing an opponent that yields experience or honor, gives you a 40% increased critical strike chance on your next Sinister Strike, Hemorrhage, Backstab, Mutilate, Ambush, or Ghostly Strike. Lasts 20 sec. This Mystic Enchant does not stack with the Remorseless Attacks Talent.",
         "quality": "rare",
         "specs": [
           "ASSASSINATION"
@@ -11342,7 +11342,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180260",
         "name": "Posthaste",
         "icon": "ability_hunter_posthaste",
-        "description": "Using Disengage increases your movement speed by 40% for 6 sec.",
+        "description": "Using Disengage increases your movement speed by 40% for 6 sec.",
         "quality": "artifact",
         "specs": [
           "SURVIVAL"
@@ -11447,7 +11447,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1570395",
         "name": "Blood Tracker: Deadly Bite",
         "icon": "ability_warrior_bloodbath",
-        "description": "Dealing damage with Mongoose Bite or Counterattack applies Deadly Bite. \\n Deadly Bite \\n Bleeding for (20*$ +AP*0.02)*6 damage over 12 sec and increases the damage taken of Raptor Strike by 10% per stack. Stacks up to 5 times.",
+        "description": "Dealing damage with Mongoose Bite or Counterattack applies Deadly Bite. \\n Deadly Bite \\n Bleeding for (20*$ +AP*0.02)*6 damage over 12 sec and increases the damage taken of Raptor Strike by 10% per stack. Stacks up to 5 times.",
         "quality": "legendary",
         "specs": [
           "SURVIVAL"
@@ -11457,7 +11457,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1584001",
         "name": "Expunge",
         "icon": "ability_rogue_deviouspoisons",
-        "description": "Reduces the cooldown of Chimera Shot by 2 sec. Your Chimera Shot applies Cobra Venom. When Expunge deals damage, the cooldown of Chimera Shot is reset and 20% base mana is restored. \\n Cobra Venom \\n Deals (56*$ +RAP*0.03)*5 Nature damage over 15 sec, stacking up to 3 times. When reaching 3 stacks or the target dies, the Cobra Venom is expunged, dealing 300*$ +RAP*0.2 Nature damage to enemies within 10 yards.",
+        "description": "Reduces the cooldown of Chimera Shot by 2 sec. Your Chimera Shot applies Cobra Venom. When Expunge deals damage, the cooldown of Chimera Shot is reset and 20% base mana is restored. \\n Cobra Venom \\n Deals (56*$ +RAP*0.03)*5 Nature damage over 15 sec, stacking up to 3 times. When reaching 3 stacks or the target dies, the Cobra Venom is expunged, dealing 300*$ +RAP*0.2 Nature damage to enemies within 10 yards.",
         "quality": "legendary",
         "specs": [
           "MARKSMANSHIP"
@@ -11493,7 +11493,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1163072",
         "name": "Apex Predator",
         "icon": "ability_demonhunter_bladedance",
-        "description": "Increases the Critical Strike Damage Bonus of Raptor Strike and Carve by 20%. Carve causes your next three Raptor Strikes cast within 6 sec to incur no cooldown.",
+        "description": "Increases the Critical Strike Damage Bonus of Raptor Strike and Carve by 20%. Carve causes your next three Raptor Strikes cast within 6 sec to incur no cooldown.",
         "quality": "epic",
         "specs": [
           "SURVIVAL"
@@ -11513,7 +11513,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180038",
         "name": "Joint Onslaught",
         "icon": "ability_hunter_sickem",
-        "description": "Your Multi-Shot grants your pet Frenzied Cleave and your Aimed Shot grants your pet Frenzied Bite. \\n Frenzied Cleave \\n Auto attacks also strike 5 other nearby enemy targets for 20% of the damage for 5 sec. \\n Frenzied Bite \\n Auto attacks deals additional damage for 40% of the damage for 5 sec.",
+        "description": "Your Multi-Shot grants your pet Frenzied Cleave and your Aimed Shot grants your pet Frenzied Bite. \\n Frenzied Cleave \\n Auto attacks also strike 5 other nearby enemy targets for 20% of the damage for 5 sec. \\n Frenzied Bite \\n Auto attacks deals additional damage for 40% of the damage for 5 sec.",
         "quality": "epic",
         "specs": [
           "BEASTMASTERY"
@@ -11546,7 +11546,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180510",
         "name": "Beastmaster's Gambit",
         "icon": "ability_hunter_invigeration",
-        "description": "When you deal damage with Barbed Shot you have a 15% chance to restore a charge of it and increase the damage you deal with Barbed Shot by 30% for 6 sec.",
+        "description": "When you deal damage with Barbed Shot you have a 15% chance to restore a charge of it and increase the damage you deal with Barbed Shot by 30% for 6 sec.",
         "quality": "epic",
         "specs": [
           "BEASTMASTERY"
@@ -11653,7 +11653,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1570417",
         "name": "Blood Tracker: Chaining Glaives",
         "icon": "custom_19_gutting_border",
-        "description": "Your Glaive Toss chains to an additional 2 targets and your Deadly Bite increases the damage of Glaive Toss by 20% per stack. In addition, using Glaive Toss on an enemy affected by your Deadly Bite slows the target by 30% for 3 sec.",
+        "description": "Your Glaive Toss chains to an additional 2 targets and your Deadly Bite increases the damage of Glaive Toss by 20% per stack. In addition, using Glaive Toss on an enemy affected by your Deadly Bite slows the target by 30% for 3 sec.",
         "quality": "epic",
         "specs": [
           "SURVIVAL",
@@ -11674,7 +11674,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1573558",
         "name": "Fire Watch",
         "icon": "custom_t_nhance_rpg_icons_chaoticvision_border",
-        "description": "When your Immolation Trap or Explosive Trap triggers, your Mongoose Bite, Raptor Strike, Carve and Counterattack deals an additional 10% damage as Fire damage for 12 sec. In addition, after killing an opponent that yields experience or honor the cooldown of your Immolation Trap and Explosive Trap is reset.",
+        "description": "When your Immolation Trap or Explosive Trap triggers, your Mongoose Bite, Raptor Strike, Carve and Counterattack deals an additional 10% damage as Fire damage for 12 sec. In addition, after killing an opponent that yields experience or honor the cooldown of your Immolation Trap and Explosive Trap is reset.",
         "quality": "epic",
         "specs": [
           "SURVIVAL"
@@ -11684,7 +11684,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1580923",
         "name": "Charged Up",
         "icon": "ability_hunter_burstingshot",
-        "description": "Transforms Explosive Shot into Explosive Shot (Charged Up). This ability scales from your Explosive Shot modifiers. \\n Explosive Shot (Charged Up) \\n You fire an explosive charge into the enemy target, dealing RAP*0.12+144-RAP*0.12+172 Fire damage. The charge will blast the target every second for an additional 2 sec when active on a target it makes your attacks bypass 10% armor. Useable whilst in melee range.",
+        "description": "Transforms Explosive Shot into Explosive Shot (Charged Up). This ability scales from your Explosive Shot modifiers. \\n Explosive Shot (Charged Up) \\n You fire an explosive charge into the enemy target, dealing RAP*0.12+144-RAP*0.12+172 Fire damage. The charge will blast the target every second for an additional 2 sec when active on a target it makes your attacks bypass 10% armor. Useable whilst in melee range.",
         "quality": "epic",
         "specs": [
           "SURVIVAL"
@@ -11800,7 +11800,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591684",
         "name": "Kindle for the Fire",
         "icon": "spell_holy_redemption",
-        "description": "Dealing direct Physical with a ranged or melee ability increases your Fire damage done by 2% for 8 sec, stacking up to 4 times.",
+        "description": "Dealing direct Physical with a ranged or melee ability increases your Fire damage done by 2% for 8 sec, stacking up to 4 times.",
         "quality": "epic",
         "specs": [
           "SURVIVAL"
@@ -11922,7 +11922,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "56845",
         "name": "Glyph of Freezing Trap",
         "icon": "spell_frost_chainsofice",
-        "description": "When your Freezing Trap breaks, the victim's movement speed is reduced by 30% for 4 sec.",
+        "description": "When your Freezing Trap breaks, the victim's movement speed is reduced by 30% for 4 sec.",
         "quality": "rare",
         "specs": [
           "SURVIVAL"
@@ -12062,7 +12062,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "63086",
         "name": "Glyph of Raptor Strike",
         "icon": "ability_meleedamage",
-        "description": "Reduces damage taken by 20% for 3 sec after using Raptor Strike.",
+        "description": "Reduces damage taken by 20% for 3 sec after using Raptor Strike.",
         "quality": "rare",
         "specs": [
           "SURVIVAL"
@@ -12162,7 +12162,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1319388",
         "name": "Entrapment",
         "icon": "spell_nature_stranglevines",
-        "description": "Crossover Talent When your Frost Trap or Snake Trap are triggered you entrap all afflicted targets, preventing them from moving for 4 sec. This Mystic Enchant does not stack with the Entrapment Talent.",
+        "description": "Crossover Talent When your Frost Trap or Snake Trap are triggered you entrap all afflicted targets, preventing them from moving for 4 sec. This Mystic Enchant does not stack with the Entrapment Talent.",
         "quality": "rare",
         "specs": [
           "SURVIVAL"
@@ -12362,7 +12362,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1319556",
         "name": "Improved Aspect of the Hawk",
         "icon": "spell_nature_ravenform",
-        "description": "Crossover Talent While Aspect of the Hawk or Dragonhawk is active, all ranged auto-attacks have a 10% chance of increasing ranged attack speed by 15% for 12 sec. This Mystic Enchant does not stack with the Improved Aspect of the Hawk Talent.",
+        "description": "Crossover Talent While Aspect of the Hawk or Dragonhawk is active, all ranged auto-attacks have a 10% chance of increasing ranged attack speed by 15% for 12 sec. This Mystic Enchant does not stack with the Improved Aspect of the Hawk Talent.",
         "quality": "rare",
         "specs": [
           "MARKSMANSHIP"
@@ -12582,7 +12582,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1334949",
         "name": "Rapid Killing",
         "icon": "ability_hunter_rapidkilling",
-        "description": "Crossover Talent Reduces the cooldown of your Rapid Fire ability by 60 sec. In addition, after killing an opponent that yields experience or honor, your next Aimed Shot, Arcane Shot or Chimera Shot causes 20% additional damage. Lasts 20 sec. This Mystic Enchant does not stack with the Rapid Killing Talent.",
+        "description": "Crossover Talent Reduces the cooldown of your Rapid Fire ability by 60 sec. In addition, after killing an opponent that yields experience or honor, your next Aimed Shot, Arcane Shot or Chimera Shot causes 20% additional damage. Lasts 20 sec. This Mystic Enchant does not stack with the Rapid Killing Talent.",
         "quality": "rare",
         "specs": [
           "MARKSMANSHIP"
@@ -13115,7 +13115,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1181450",
         "name": "Vigilant Vanguard",
         "icon": "ability_warrior_swordandboard",
-        "description": "Replaces your Intervene with Vanguard. \\n Vanguard \\n Charge toward the target of your Vigilance, forming a Vanguard. While you remain close you follow up their auto attacks with your own. Lasts for 15 sec.",
+        "description": "Replaces your Intervene with Vanguard. \\n Vanguard \\n Charge toward the target of your Vigilance, forming a Vanguard. While you remain close you follow up their auto attacks with your own. Lasts for 15 sec.",
         "quality": "epic",
         "specs": [
           "PROTECTION"
@@ -13215,7 +13215,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1572326",
         "name": "Titan's Fury",
         "icon": "achievement_dungeon_ulduarraid_ironsentinel_01",
-        "description": "Using Whirlwind while above 50 rage grants you Titan's Fury. Using it while below 50 rage grants you Titan's Heroism. \\n Titan's Fury \\n Increases damage dealt by 5% for 10 sec. \\n Titan's Heroism \\n Removes the rage cost of Heroic Strike and Cleave. Lasts 3 charges or 10 sec.",
+        "description": "Using Whirlwind while above 50 rage grants you Titan's Fury. Using it while below 50 rage grants you Titan's Heroism. \\n Titan's Fury \\n Increases damage dealt by 5% for 10 sec. \\n Titan's Heroism \\n Removes the rage cost of Heroic Strike and Cleave. Lasts 3 charges or 10 sec.",
         "quality": "epic",
         "specs": [
           "FURY"
@@ -13272,7 +13272,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1578501",
         "name": "En Garde!",
         "icon": "ability_parry",
-        "description": "Using Mocking Blow increases your chance to Parry by 10% for 10 sec.",
+        "description": "Using Mocking Blow increases your chance to Parry by 10% for 10 sec.",
         "quality": "epic",
         "specs": [
           "PROTECTION"
@@ -13326,7 +13326,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1582589",
         "name": "Seismic Shockwave",
         "icon": "spell_winston_rage",
-        "description": "Using Devastate increases the damage of your next Shockwave by 15%. At full stacks, the range of Shockwave is increased by 5 yards and stuns for an additional 1 second. Stacks up to 3 times and lasts for 10 sec.",
+        "description": "Using Devastate increases the damage of your next Shockwave by 15%. At full stacks, the range of Shockwave is increased by 5 yards and stuns for an additional 1 second. Stacks up to 3 times and lasts for 10 sec.",
         "quality": "epic",
         "specs": [
           "PROTECTION"
@@ -13368,7 +13368,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1585059",
         "name": "A Quick Death",
         "icon": "achievement_bg_killingblow_berserker",
-        "description": "Using Execute grants you 3% melee haste, 1% critical strike chance and increases your Bladestorm damage by 6% stacking up to 5 times and lasts for 20 sec.",
+        "description": "Using Execute grants you 3% melee haste, 1% critical strike chance and increases your Bladestorm damage by 6% stacking up to 5 times and lasts for 20 sec.",
         "quality": "epic",
         "specs": [
           "ARMS",
@@ -13379,7 +13379,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1585080",
         "name": "Crackling Thunder",
         "icon": "spell_shaman_staticshock",
-        "description": "Your Thunder Clap electrifies the ground, dealing 19*$ )+( AP *0.02 Nature damage for 4 sec to nearby enemies and increasing your critical strike chance against them by 5%. This damage generates additional threat.",
+        "description": "Your Thunder Clap electrifies the ground, dealing 19*$ )+( AP *0.02 Nature damage for 4 sec to nearby enemies and increasing your critical strike chance against them by 5%. This damage generates additional threat.",
         "quality": "epic",
         "specs": [
           "PROTECTION"
@@ -13591,7 +13591,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "58372",
         "name": "Glyph of Hamstring",
         "icon": "ability_shockwave",
-        "description": "Gives your Hamstring ability a 10% chance to immobilize the target for 5 sec.",
+        "description": "Gives your Hamstring ability a 10% chance to immobilize the target for 5 sec.",
         "quality": "rare",
         "specs": [
           "ARMS"
@@ -13601,7 +13601,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "58375",
         "name": "Glyph of Blocking",
         "icon": "inv_shield_32",
-        "description": "Increases your block value by 10% for 10 sec after using your Shield Slam ability.",
+        "description": "Increases your block value by 10% for 10 sec after using your Shield Slam ability.",
         "quality": "rare",
         "specs": [
           "PROTECTION"
@@ -14051,7 +14051,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1312867",
         "name": "Deep Wounds",
         "icon": "ability_backstab",
-        "description": "Crossover Talent Your critical strikes cause the opponent to bleed, dealing 48% of your melee weapon's average damage over 6 sec. This Mystic Enchant does not stack with the Deep Wounds Talent.",
+        "description": "Crossover Talent Your critical strikes cause the opponent to bleed, dealing 48% of your melee weapon's average damage over 6 sec. This Mystic Enchant does not stack with the Deep Wounds Talent.",
         "quality": "rare",
         "specs": [
           "ARMS"
@@ -14151,7 +14151,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1313048",
         "name": "Enrage",
         "icon": "spell_shadow_unholyfrenzy",
-        "description": "Crossover Talent Gives you a 30% chance to receive a 10% damage bonus for 12 sec after being the victim of a damaging attack. This effect does not stack with Wrecking Crew. This Mystic Enchant does not stack with the Enrage Talent.",
+        "description": "Crossover Talent Gives you a 30% chance to receive a 10% damage bonus for 12 sec after being the victim of a damaging attack. This effect does not stack with Wrecking Crew. This Mystic Enchant does not stack with the Enrage Talent.",
         "quality": "rare",
         "specs": [
           "FURY"
@@ -14191,7 +14191,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1316492",
         "name": "Blood Craze",
         "icon": "spell_shadow_summonimp",
-        "description": "Crossover Talent Regenerates 6% of your total Health over 6 sec after being the victim of a critical strike. This Mystic Enchant does not stack with the Blood Craze Talent.",
+        "description": "Crossover Talent Regenerates 6% of your total Health over 6 sec after being the victim of a critical strike. This Mystic Enchant does not stack with the Blood Craze Talent.",
         "quality": "rare",
         "specs": [
           "FURY"
@@ -14331,7 +14331,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1356638",
         "name": "Taste for Blood",
         "icon": "ability_rogue_hungerforblood",
-        "description": "Crossover Talent Whenever your Rend ability causes damage, you have a 100% chance of allowing the use of your Overpower ability for 9 sec. 1 charge. This effect will not occur more than once every 6 sec. This Mystic Enchant does not stack with the Taste for Blood Talent.",
+        "description": "Crossover Talent Whenever your Rend ability causes damage, you have a 100% chance of allowing the use of your Overpower ability for 9 sec. 1 charge. This effect will not occur more than once every 6 sec. This Mystic Enchant does not stack with the Taste for Blood Talent.",
         "quality": "rare",
         "specs": [
           "ARMS"
