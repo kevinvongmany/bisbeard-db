@@ -3219,7 +3219,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1181420",
         "name": "Spirit Link Totem",
         "icon": "spell_shaman_spiritlink",
-        "description": "Teaches you: Spirit Link Totem",
+        "description": "Teaches you: Spirit Link Totem \\n Spirit Link Totem \\n 3 min cooldown. 35 Mana. Summons an Air Totem with 5 health at the feet of the caster. The totem redistributes the health of all party and raid members within 10 yards every 1 sec, such that each player ends up with the same percentage of their maximum health. Lasts 8 sec.",
         "quality": "artifact",
         "specs": [
           "RESTORATION"
@@ -3235,7 +3235,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1182049",
         "name": "Astral Plane",
         "icon": "_enslavespell_astral",
-        "description": "Teaches you: Astral Plane.",
+        "description": "Teaches you: Astral Plane. \\n Astral Plane \\n 2 min cooldown. Partially shift into the astral plane reducing damage taken by 30% for 15 sec. As time passes you slowly converge back to reality, lowering the damage reduction.",
         "quality": "artifact",
         "specs": [
           "ENHANCEMENT"
@@ -3245,7 +3245,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1318221",
         "name": "Spiritwalker's Grace",
         "icon": "spell_shaman_spiritwalkersgrace",
-        "description": "Teaches you: Spiritwalker's Grace.",
+        "description": "Teaches you: Spiritwalker's Grace. \\n Spiritwalker's Grace \\n 1.5 min cooldown. Calls upon the guidance of the spirits for 12 sec, allowing movement while casting Shaman spells and granting Spiritwalker's Determination. Castable while casting other spells. \\n Spiritwalker's Determination \\n Immune to Interrupt and Silence mechanics. Last 5 sec or until next spell with a cast time is used.",
         "quality": "artifact",
         "specs": [
           "RESTORATION",
@@ -3256,7 +3256,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398183",
         "name": "Sundering",
         "icon": "ability_rhyolith_lavapool",
-        "description": "Teaches you: Sundering.",
+        "description": "Teaches you: Sundering. \\n Sundering \\n 30 sec cooldown. Shatters a line of earth in front of you, causing xyz Fire damage and Incapacitating any enemy hit for 4 sec. This effect does not break from Flame Shock periodic damage.",
         "quality": "artifact",
         "specs": [
           "ENHANCEMENT"
@@ -3266,7 +3266,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398194",
         "name": "Windwalk Totem",
         "icon": "ability_shaman_windwalktotem",
-        "description": "Teaches you: Windwalk Totem.",
+        "description": "Teaches you: Windwalk Totem. \\n Windwalk Totem \\n 30 sec cooldown. Summons an Air Totem with 5 health at the feet of the caster for 5 sec, increasing the movement speed of party members within 40 yards by 40%.",
         "quality": "artifact",
         "specs": [
           "ENHANCEMENT"
@@ -3276,7 +3276,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398198",
         "name": "Capacitor Totem",
         "icon": "inv_staff_07",
-        "description": "Teaches you: Capacitor Totem.",
+        "description": "Teaches you: Capacitor Totem. \\n Capacitor Totem \\n 25 yd range. 40 sec cooldown. Summons an Air totem with 5 health within 20 yards that gathers electrical energy from the surrounding air and then explodes after 2 sec to deal Nature damage and stun all enemies within 8 yards for 4 sec.",
         "quality": "artifact",
         "specs": [
           "ELEMENTAL"
@@ -3286,7 +3286,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398203",
         "name": "Earthquake",
         "icon": "spell_shaman_earthquake",
-        "description": "Teaches you: Earthquake.",
+        "description": "Teaches you: Earthquake. \\n Earthquake \\n 30 yd range. 30 sec cooldown. 1.5 sec cast. You cause the earth at the target location to tremble and break, dealing Nature damage every 1 sec to enemies and reducing their movement speed by 25% in an 8 yard radius. Lasts 8 sec. Enemies taking damage from it are affected with Trembling and on 3 stacks they get stunned for 3 seconds. This can only occur every 10 sec from any Earthquake effect.",
         "quality": "artifact",
         "specs": [
           "ELEMENTAL"
@@ -3348,7 +3348,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398162",
         "name": "Tether Elemental",
         "icon": "spell_nature_elementalprecision_1",
-        "description": "Teaches you: Tether Elemental.",
+        "description": "Teaches you: Tether Elemental. \\n Tether Elemental \\n 30 yd range. Begins tethering an elemental to be your companion. Your armor is reduced by 100% while you focus on dominating the elemental for 20 sec. If you lose the elemental's attention for any reason, the domination process will fail. Each type of elemental has unique abilities that you will be able to make use of.",
         "quality": "legendary",
         "specs": [
           "ELEMENTAL"
@@ -3358,7 +3358,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398169",
         "name": "Flame Ascendance",
         "icon": "spell_fire_elementaldevastation",
-        "description": "Whenever the critical chance of your Lava Burst is above 100%, the excess critical chance is added as critical strike damage bonus. Teaches you: Flame Ascendance.",
+        "description": "Whenever the critical chance of your Lava Burst is above 100%, the excess critical chance is added as critical strike damage bonus. Teaches you: Flame Ascendance. \\n Flame Ascendance \\n 1.5 min cooldown. Transform into a being of raw elemental energy for 20 sec. Chain Lightning becomes Lava Beam. Lava Burst's cooldown is reduced by 50%. \\n Lava Beam \\n Unleash a blast of superheated flame at the enemy, dealing 150 Firestorm damage and then jumping to additional nearby enemies. Affects 3 total targets.",
         "quality": "legendary",
         "specs": [
           "ELEMENTAL"
@@ -3368,7 +3368,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398218",
         "name": "Air Ascendance",
         "icon": "spell_fire_elementaldevastation",
-        "description": "Teaches you: Air Ascendance.",
+        "description": "Teaches you: Air Ascendance. \\n Air Ascendance \\n 1 min cooldown. You surrender your physical form to the power of the elements, transforming into a being of raw elemental energy for 12 seconds. Your Stormstrike has a 20 yard range and deals extra Nature damage. The cooldown of Stormstrike is reset when using any Shaman Shock, Lightning Bolt or Chain Lightning.",
         "quality": "legendary",
         "specs": [
           "ENHANCEMENT"
@@ -3378,7 +3378,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398222",
         "name": "Healing Rain",
         "icon": "spell_nature_giftofthewaterspirit",
-        "description": "Teaches you: Healing Rain.",
+        "description": "Teaches you: Healing Rain. \\n Healing Rain \\n 40 yd range. 20 sec cooldown. 2 sec cast. Call forth healing rains to blanket the area, restoring xyz health over time to 5 party or raid members and restoring 6% base mana to the caster in a 10 yard area every 2 sec for 8 sec. This periodic effect can critically strike.",
         "quality": "legendary",
         "specs": [
           "RESTORATION"
@@ -3411,7 +3411,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1569697",
         "name": "Hydromancer: Water Bolt",
         "icon": "spell_frost_frostbolt",
-        "description": "Teaches you: Water Bolt.",
+        "description": "Teaches you: Water Bolt. \\n Water Bolt \\n 36 yd range. 10 sec cooldown. 2 sec cast. Hurls a watery bolt at an enemy, inflicting xyz Frost damage and appling Doused. \\n Doused \\n Wet. Taking 10% increased damage from the Shaman's Lightning Bolt and Chain Lightning. Lasts 12 sec.",
         "quality": "legendary",
         "specs": [
           "ELEMENTAL"
@@ -3644,7 +3644,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398170",
         "name": "Cloudburst Totem",
         "icon": "ability_shaman_condensationtotem",
-        "description": "Teaches you: Cloudburst Totem.",
+        "description": "Teaches you: Cloudburst Totem. \\n Cloudburst Totem \\n 1 min cooldown. Summons a Water totem at your feet with 5 health for 15 sec that collects power from all your healing spells. When the totem expires or dies, the stored power is released, healing all injured allies within 40 yards for 30% of all Nature healing done while it was active, divided evenly among targets.",
         "quality": "epic",
         "specs": [
           "RESTORATION"
@@ -3654,7 +3654,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398213",
         "name": "Elemental Blast",
         "icon": "shaman_talent_elementalblast",
-        "description": "Teaches you: Elemental Blast.",
+        "description": "Teaches you: Elemental Blast. \\n Elemental Blast \\n 30 yd range. 12 sec cooldown. 2 sec cast. Harness and direct the raw power of the elements towards an enemy target, dealing Elemental damage and increasing the caster's critical strike chance or spell casting speed for 8 seconds.",
         "quality": "epic",
         "specs": [
           "ELEMENTAL"
