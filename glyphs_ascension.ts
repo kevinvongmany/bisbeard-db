@@ -4893,7 +4893,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180050",
         "name": "Holy Word: Chastise",
         "icon": "spell_holy_chastise",
-        "description": "Teaches you: Holy Word: Chastise.",
+        "description": "Teaches you: Holy Word: Chastise. \\n Holy Word: Chastise \\n 30 yd range. 30 sec cooldown. 1 sec cast. Chastise the target, incapacitating it for 3 sec. Any damage caused will revive the target.",
         "quality": "artifact",
         "specs": [
           "HOLY"
@@ -4903,7 +4903,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180520",
         "name": "Power Word: Barrier",
         "icon": "spell_holy_powerwordbarrier",
-        "description": "Teaches you: Power Word: Barrier.",
+        "description": "Teaches you: Power Word: Barrier. \\n Power Word: Barrier \\n 2 min cooldown. Summons a holy barrier to protect all allies at the target location for 8 sec, reducing all damage taken by 20% and reduces the pushback suffered from damaging attacks while casting by 100%.",
         "quality": "artifact",
         "specs": [
           "DISCIPLINE"
@@ -4919,7 +4919,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398176",
         "name": "Angelic Feather",
         "icon": "ability_priest_angelicfeather",
-        "description": "Teaches you: Angelic Feather.",
+        "description": "Teaches you: Angelic Feather. \\n Angelic Feather \\n 40 yd range. 3 Charges. 20 sec recharge. Place a feather at the target location, lasting for 15 sec. If allies walk through it, they gain 50% increased movement speed for 4 sec.",
         "quality": "artifact",
         "specs": [
           "HOLY"
@@ -4929,7 +4929,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398201",
         "name": "Void Shift",
         "icon": "spell_priest_voidshift",
-        "description": "Teaches you: Void Shift.",
+        "description": "Teaches you: Void Shift. \\n Void Shift \\n 40 yd range. 3 min cooldown. You and the currently targeted party or raid member swap health percentages. Increases the health percentage of you and your ally to 10% if below that amount.",
         "quality": "artifact",
         "specs": [
           "SHADOW"
@@ -4939,7 +4939,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398259",
         "name": "Leap of Faith",
         "icon": "priest_spell_leapoffaith_a",
-        "description": "Teaches you: Leap of Faith.",
+        "description": "Teaches you: Leap of Faith. \\n Leap of Faith \\n 40 yd range. 45 sec cooldown. Pulls the spirit of a party or raid member, moving them to you. The same target can only be affected by this once every 30 seconds.",
         "quality": "artifact",
         "specs": [
           "HOLY"
@@ -4981,7 +4981,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398178",
         "name": "Divine Star",
         "icon": "spell_priest_divinestar",
-        "description": "Teaches you: Divine Star.",
+        "description": "Teaches you: Divine Star. \\n Divine Star \\n 30 sec cooldown. Fires a Divine Star forward, traveling 30 yards, causing Holy damage to all enemies and healing allies within 5 yards of its path. Upon reaching its destination it returns, also dealing damage and healing on its way back.",
         "quality": "legendary",
         "specs": [
           "HOLY"
@@ -4991,7 +4991,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398184",
         "name": "Void Eruption",
         "icon": "spell_priest_void_blast",
-        "description": "Teaches you: Void Eruption.",
+        "description": "Teaches you: Void Eruption. \\n Void Eruption \\n 30 yd range. 45 sec cooldown. 1.5 sec cast. Releases an explosive blast of pure void energy, causing Shadow damage and slowing all enemies hit by 50% for 5 seconds. Applies Shadow Word: Pain to up to 10 enemies within 10 yards of your target. The power drawn from the Void increases your periodic Shadow damage by 25% for 10 sec.",
         "quality": "legendary",
         "specs": [
           "SHADOW"
@@ -5001,7 +5001,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398211",
         "name": "Halo",
         "icon": "ability_priest_halo",
-        "description": "Teaches you: Halo.",
+        "description": "Teaches you: Halo. \\n Halo \\n 45 sec cooldown. Creates a ring of Holy energy around you that quickly expands and grows in power, healing raid and party members up to 30 yds away. Heals with greater effect the further away the ally is. Also increases the Holy healing taken from the caster by 8%.",
         "quality": "legendary",
         "specs": [
           "HOLY",
@@ -5144,7 +5144,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180580",
         "name": "Endless Void",
         "icon": "spell_shadow_shadesofdarkness",
-        "description": "Your Mind Blast casts extends the periodic Shadow damage increase granted from Void Eruption by 5 sec. This can exceed the original duration.",
+        "description": "Your Mind Blast casts extends the periodic Shadow damage increase granted from Void Eruption by 5 sec. This can exceed the original duration. \\n Void-Touched \\n Increases periodic Shadow damage by 25%.",
         "quality": "epic",
         "specs": [
           "SHADOW"
@@ -5527,7 +5527,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590924",
         "name": "Void Herald: Grasp of Darkness",
         "icon": "ability_demonhunter_darkness",
-        "description": "Teaches you: Grasp of Darkness.",
+        "description": "Teaches you: Grasp of Darkness. \\n Grasp of Darkness \\n 30 yd range. 30 sec cooldown. Channel dark energy, dealing 483 Shadow damage over 3 sec. Each time it deals damage, the cooldown of Shadowfiend is reduced by 10 sec. Each Tentacle of the Old Gods under your control will empower its damage dealth by 15% and its critical strike chance by 10%.",
         "quality": "epic",
         "specs": [
           "SHADOW"
