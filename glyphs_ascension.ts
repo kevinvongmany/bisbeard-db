@@ -158,7 +158,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1186386",
         "name": "Efflorescence",
         "icon": "inv_misc_herb_talandrasrose",
-        "description": "Teaches you: Efflorescence \\n Efflorescence \\n 1 min cooldown. Grows a healing blossom at the target location, increasing healing taken by 15% and restoring xyz health to allies within 10 yards every 2 sec for 10 sec. Also applies Rejuvenation to up to 5 targets.",
+        "description": "Teaches you: Efflorescence \\n Efflorescence \\n 1 min cooldown. Grows a healing blossom at the target location, increasing healing taken by 15% and restoring 107 health to allies within 10 yards every 2 sec for 10 sec. Also applies Rejuvenation to up to 5 targets.",
         "quality": "legendary",
         "specs": [
           "RESTORATION"
@@ -168,7 +168,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398174",
         "name": "Chosen of Elune",
         "icon": "spell_druid_incarnation",
-        "description": "Eclipse (Solar) increase your critical strike rating by 15% of your Spirit, and your Eclipse (Lunar) increase your haste rating by 15% of your Spirit. Teaches you: Chosen of Elune.",
+        "description": "Eclipse (Solar) increase your critical strike rating by 15% of your Spirit, and your Eclipse (Lunar) increase your haste rating by 15% of your Spirit. Teaches you: Chosen of Elune. \\n Chose of Elune \\n 1.5 min cooldown. Resets the cooldown of Starsurge and reduces its cooldown by 50% for 15 sec. Also activates both Lunar Eclipse and Solar Eclipse. This does not incur a cooldown on the Eclipse effects.",
         "quality": "legendary",
         "specs": [
           "BALANCE"
@@ -237,7 +237,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1572260",
         "name": "Predator's Wrath: Wrathful Strikes",
         "icon": "spell_mage_nethertempest",
-        "description": "Predator’s Swiftness now allows you to cast Wrath while in Cat Form, dealing additional damage equal to 30% of your Attack Power. Casting Wrath in this way causes your direct physical damaging abilities to trigger additional damage. This bonus damage is increased by 5% per stack, stacks 10 times, lasts $1572261donds.",
+        "description": "Predator's Swiftness now allows you to cast Wrath while in Cat Form, dealing additional damage equal to 30% of your Attack Power. Casting Wrath in this way causes your direct physical damaging abilities to trigger additional damage. This bonus damage is increased by 5% per stack, stacks 10 times, lasts 15 sec.",
         "quality": "legendary",
         "specs": [
           "FERAL"
@@ -260,7 +260,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590982",
         "name": "Carnage Incarnate",
         "icon": "spell_druid_bearhug",
-        "description": "Teaches you: Carnage Incarnate. \\n Carnage Incarnate \\n 45 sec cooldown. Encase yourself in blood and bones, reducing physical damage taken by 10% and dealing xyz physical damage to nearby enemies and healing your for xyz for 55 every second. Lasts for 8 sec.",
+        "description": "Teaches you: Carnage Incarnate. \\n Carnage Incarnate \\n 45 sec cooldown. Encase yourself in blood and bones, reducing physical damage taken by 10% and dealing 102 physical damage to nearby enemies and healing your for 81 for 55 every second. Lasts for 8 sec.",
         "quality": "legendary",
         "specs": [
           "FERAL"
@@ -280,7 +280,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591061",
         "name": "Sunfire",
         "icon": "ability_mage_firestarter",
-        "description": "Teaches you: Sunfire. \\n Sunfire \\n 30 yd range. 10 sec cooldown. Burns your target and 4 additional targets within 8 yards, dealing xyz to xyz Firestorm damage and xyz additional damage over 15 sec. Sunfire also increases the periodic damage from Moonfire and Insect Swarm by 15% per target hit for its duration.",
+        "description": "Teaches you: Sunfire. \\n Sunfire \\n 30 yd range. 10 sec cooldown. Burns your target and 4 additional targets within 8 yards, dealing 137 to 171 Firestorm damage and 310 additional damage over 15 sec. Sunfire also increases the periodic damage from Moonfire and Insect Swarm by 15% per target hit for its duration.",
         "quality": "legendary",
         "specs": [
           "BALANCE"
@@ -1742,7 +1742,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1181440",
         "name": "Aegis of the Martyr",
         "icon": "ability_paladin_lightofthemartyr",
-        "description": "Teaches you Aegis of the Martyr. \\n Aegis of the Martyr \\n 40 yd range. 45 sec cooldown. Sacrifice 30% of your max health to place a powerful aegis on your target, absorbing up to xyz damage for 10 sec. If you have below 30% health your will be left with 1 health.",
+        "description": "Teaches you Aegis of the Martyr. \\n Aegis of the Martyr \\n 40 yd range. 45 sec cooldown. Sacrifice 30% of your max health to place a powerful aegis on your target, absorbing up to 2297 damage for 10 sec. If you have below 30% health your will be left with 1 health.",
         "quality": "artifact",
         "specs": [
           "HOLY"
@@ -1864,7 +1864,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1554908",
         "name": "Holy Templar",
         "icon": "spell_holy_rune",
-        "description": "Crusader Strike, Divine Storm and Holy Shock grant you Holy Power, which stacks up to 5 times. You can consume 3 Holy Power to use Templar's Verdict or Word of Glory. \\ Templar's Verdict \\n A powerful strike that deals 180% weapon damage. \\n Word of Glory \\n Heals a friendly target for xyz and another xyz for 6 sec.",
+        "description": "Crusader Strike, Divine Storm and Holy Shock grant you Holy Power, which stacks up to 5 times. You can consume 3 Holy Power to use Templar's Verdict or Word of Glory. \\ Templar's Verdict \\n A powerful strike that deals 180% weapon damage. \\n Word of Glory \\n Heals a friendly target for 400 and another 302 for 6 sec.",
         "quality": "legendary",
         "specs": [
           "RETRIBUTION",
@@ -1905,7 +1905,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591108",
         "name": "Hammerstorm",
         "icon": "custom_t_hammerofjustice_border",
-        "description": "Teaches you: Hammerstorm. \\n Hammerstorm \\n 25 sec cooldown. Holy hammers surround you for 5 sec, increasing your armor by 30% and dealing xyz Holy damage every second to nearby enemies and reduces their attack speed by 20% for 20 sec.",
+        "description": "Teaches you: Hammerstorm. \\n Hammerstorm \\n 25 sec cooldown. Holy hammers surround you for 5 sec, increasing your armor by 30% and dealing 118 Holy damage every second to nearby enemies and reduces their attack speed by 20% for 20 sec.",
         "quality": "legendary",
         "specs": [
           "PROTECTION"
@@ -1915,7 +1915,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591146",
         "name": "Light of the Guardian",
         "icon": "spell_holy_pureofheart",
-        "description": "Teaches you: Light of the Guardian. \\n Light of the Guardian \\n 30 sec cooldown. Absorbs xyz damage and deals xyz high-threat Holy damage to enemies within 8 yards of the Paladin. Reduces damage taken from creatures by 20% and increases healing received by 30% for 8 sec.",
+        "description": "Teaches you: Light of the Guardian. \\n Light of the Guardian \\n 30 sec cooldown. Absorbs 434 damage and deals 494 high-threat Holy damage to enemies within 8 yards of the Paladin. Reduces damage taken from creatures by 20% and increases healing received by 30% for 8 sec.",
         "quality": "legendary",
         "specs": [
           "PROTECTION"
@@ -2039,7 +2039,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398181",
         "name": "Light of Dawn",
         "icon": "spell_paladin_lightofdawn",
-        "description": "Teaches you: Light of Dawn. \\n Light of Dawn \\n Consumes 3 Holy Power, releasing a cone of Holy energy, healing up to 10 injured allies within a 30 yd frontal cone for xyz.",
+        "description": "Teaches you: Light of Dawn. \\n Light of Dawn \\n Consumes 3 Holy Power, releasing a cone of Holy energy, healing up to 10 injured allies within a 30 yd frontal cone for 193.",
         "quality": "epic",
         "specs": [
           "HOLY"
@@ -3256,7 +3256,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398183",
         "name": "Sundering",
         "icon": "ability_rhyolith_lavapool",
-        "description": "Teaches you: Sundering. \\n Sundering \\n 30 sec cooldown. Shatters a line of earth in front of you, causing xyz Fire damage and Incapacitating any enemy hit for 4 sec. This effect does not break from Flame Shock periodic damage.",
+        "description": "Teaches you: Sundering. \\n Sundering \\n 30 sec cooldown. Shatters a line of earth in front of you, causing 254 Fire damage and Incapacitating any enemy hit for 4 sec. This effect does not break from Flame Shock periodic damage.",
         "quality": "artifact",
         "specs": [
           "ENHANCEMENT"
@@ -3378,7 +3378,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398222",
         "name": "Healing Rain",
         "icon": "spell_nature_giftofthewaterspirit",
-        "description": "Teaches you: Healing Rain. \\n Healing Rain \\n 40 yd range. 20 sec cooldown. 2 sec cast. Call forth healing rains to blanket the area, restoring xyz health over time to 5 party or raid members and restoring 6% base mana to the caster in a 10 yard area every 2 sec for 8 sec. This periodic effect can critically strike.",
+        "description": "Teaches you: Healing Rain. \\n Healing Rain \\n 40 yd range. 20 sec cooldown. 2 sec cast. Call forth healing rains to blanket the area, restoring 118 health over time to 5 party or raid members and restoring 6% base mana to the caster in a 10 yard area every 2 sec for 8 sec. This periodic effect can critically strike.",
         "quality": "legendary",
         "specs": [
           "RESTORATION"
@@ -3411,7 +3411,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1569697",
         "name": "Hydromancer: Water Bolt",
         "icon": "spell_frost_frostbolt",
-        "description": "Teaches you: Water Bolt. \\n Water Bolt \\n 36 yd range. 10 sec cooldown. 2 sec cast. Hurls a watery bolt at an enemy, inflicting xyz Frost damage and appling Doused. \\n Doused \\n Wet. Taking 10% increased damage from the Shaman's Lightning Bolt and Chain Lightning. Lasts 12 sec.",
+        "description": "Teaches you: Water Bolt. \\n Water Bolt \\n 36 yd range. 10 sec cooldown. 2 sec cast. Hurls a watery bolt at an enemy, inflicting 335 Frost damage and appling Doused. \\n Doused \\n Wet. Taking 10% increased damage from the Shaman's Lightning Bolt and Chain Lightning. Lasts 12 sec.",
         "quality": "legendary",
         "specs": [
           "ELEMENTAL"
@@ -3482,7 +3482,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180160",
         "name": "Lightning Fangs",
         "icon": "ability_thunderking_balllightning",
-        "description": "Using Stormstrike charges your Spirit Wolves with lightning, causing their auto attacks to deal extra Nature damage for $1180161donds.",
+        "description": "Using Stormstrike charges your Spirit Wolves with lightning, causing their auto attacks to deal extra Nature damage for 6 sec.",
         "quality": "epic",
         "specs": [
           "ENHANCEMENT"
@@ -3614,7 +3614,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1181220",
         "name": "Converging Elements",
         "icon": "spell_nature_elementalprecision_2",
-        "description": "Dealing damage with Frostbrand Weapon or Flametongue Weapon increases the instant damage of your next Shock spell by 5% and decreases its cooldown by 0.3 sec. Stacks to 10. Lasts $1181221donds.",
+        "description": "Dealing damage with Frostbrand Weapon or Flametongue Weapon increases the instant damage of your next Shock spell by 5% and decreases its cooldown by 0.3 sec. Stacks to 10. Lasts 10 sec.",
         "quality": "epic",
         "specs": [
           "ENHANCEMENT"
@@ -3737,7 +3737,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1577465",
         "name": "Tethered Power",
         "icon": "inv_elemental_crystal_air",
-        "description": "Your Tethered Elemental's critical strikes grant you Elemental Air. Casting Elemental Blast grants Elemental Synergy. \\n Elemental Air \\n Reduces the cooldown of Elemental Blast by 1 sec, this can only occur once every 2 seconds. Damage and critical strike chance of your next Elemental Blast is increased by 30%. \\n Elemental Synergy \\n Increases the damage your Elemental deals by 4%. Stacks up to 10. Lasts $donds.",
+        "description": "Your Tethered Elemental's critical strikes grant you Elemental Air. Casting Elemental Blast grants Elemental Synergy. \\n Elemental Air \\n Reduces the cooldown of Elemental Blast by 1 sec, this can only occur once every 2 seconds. Damage and critical strike chance of your next Elemental Blast is increased by 30%. \\n Elemental Synergy \\n Increases the damage your Elemental deals by 4%. Stacks up to 10. Lasts 15 sec.",
         "quality": "epic",
         "specs": [
           "ELEMENTAL"
@@ -3787,7 +3787,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1579746",
         "name": "Forked Lightning",
         "icon": "spell_nature_lightningoverload",
-        "description": "Chain Lightning zaps the target and while a nearby enemy exists, a fork of lightning jumps between the target and the nearby enemy dealing 19*$ + SP *0.01713) Nature damage every second for $1579747donds.",
+        "description": "Chain Lightning zaps the target and while a nearby enemy exists, a fork of lightning jumps between the target and the nearby enemy dealing 19*$ + SP *0.01713) Nature damage every second for 5 sec.",
         "quality": "epic",
         "specs": [
           "ELEMENTAL"
@@ -3820,7 +3820,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1581956",
         "name": "Frugal Disposition",
         "icon": "ability_shaman_multitotemactivation",
-        "description": "When you overheal with Lesser Healing Wave, your target receives half the overhealing periodically over $1581957donds.",
+        "description": "When you overheal with Lesser Healing Wave, your target receives half the overhealing periodically over 6 sec.",
         "quality": "epic",
         "specs": [
           "RESTORATION"
@@ -3870,7 +3870,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1589255",
         "name": "Nature's Flow",
         "icon": "nhi_natureflow_border",
-        "description": "Using Tidal Force or Nature's Swiftness also increases your spell haste by 10% for $1589258donds. Healing with Lesser Healing Wave, Healing Wave, Chain Heal or the instant part of Riptide reduces the cooldown of your Nature's Swiftness and Tidal Force by 1 seconds.",
+        "description": "Using Tidal Force or Nature's Swiftness also increases your spell haste by 10% for 10 sec. Healing with Lesser Healing Wave, Healing Wave, Chain Heal or the instant part of Riptide reduces the cooldown of your Nature's Swiftness and Tidal Force by 1 sec.",
         "quality": "epic",
         "specs": [
           "RESTORATION"
@@ -5043,7 +5043,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1570700",
         "name": "Shadow Visions",
         "icon": "spell_shadow_charm",
-        "description": "Dealing damage with Mind Flay grants you a Soul Fragment. After accumulating 6 fragments you gain Shadow Visions. \\n Shadow Visions \\n Empowers your next ability: - Devouring Plague: Duration increased by 12 seconds. - Mind Blast: Damage increased by 50%, makes your next Mind Flay have 33% increased critical strike chance. - Vampiric Touch: Marks a target to take 20% increased periodic damage from you for $1570706donds.",
+        "description": "Dealing damage with Mind Flay grants you a Soul Fragment. After accumulating 6 fragments you gain Shadow Visions. \\n Shadow Visions \\n Empowers your next ability: - Devouring Plague: Duration increased by 12 seconds. - Mind Blast: Damage increased by 50%, makes your next Mind Flay have 33% increased critical strike chance. - Vampiric Touch: Marks a target to take 20% increased periodic damage from you for 30 sec.",
         "quality": "legendary",
         "specs": [
           "SHADOW"
@@ -6651,7 +6651,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398206",
         "name": "Hand of Gul'dan",
         "icon": "ability_warlock_handofguldan",
-        "description": "Teaches you: Hand of Gul'dan. \\n Hand of Gul'dan \\n 30 yd range. 30 sec cooldown. 2 sec cast. Calls down a demonic meteor dealing xyz Shadowflame damage to enemies within 5 yards and summons 4 Wild Imps which burst forth and attack the target for 12 sec.",
+        "description": "Teaches you: Hand of Gul'dan. \\n Hand of Gul'dan \\n 30 yd range. 30 sec cooldown. 2 sec cast. Calls down a demonic meteor dealing 295 Shadowflame damage to enemies within 5 yards and summons 4 Wild Imps which burst forth and attack the target for 12 sec.",
         "quality": "legendary",
         "specs": [
           "DEMONOLOGY"
@@ -6913,7 +6913,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1577291",
         "name": "Demonic Persistence",
         "icon": "ability_warlock_impoweredimp",
-        "description": "Casting Hand of Gul'dan increases the damage of your summoned demon and Wild Imps by 5%, stacking up to 5 times. Lasts $1577293donds.",
+        "description": "Casting Hand of Gul'dan increases the damage of your summoned demon and Wild Imps by 5%, stacking up to 5 times. Lasts 35 sec.",
         "quality": "epic",
         "specs": [
           "DEMONOLOGY"
@@ -7082,7 +7082,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591031",
         "name": "Fire Storm",
         "icon": "ability_ironmaidens_rapidfire",
-        "description": "Teaches you: Fire Storm. \\n Fire Storm \\n 30 yd range. 20 sec cooldown. Calls down a fiery rain to burn enemies in the area of effect for xyz Fire damage over 6 sec.",
+        "description": "Teaches you: Fire Storm. \\n Fire Storm \\n 30 yd range. 20 sec cooldown. Calls down a fiery rain to burn enemies in the area of effect for 276 Fire damage over 6 sec.",
         "quality": "epic",
         "specs": [
           "DESTRUCTION"
@@ -8229,7 +8229,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398171",
         "name": "Frozen Orb",
         "icon": "spell_frost_frozenorb",
-        "description": "Teaches you: Frozen Orb. \\n Frozen Orb \\n 40 sec cooldown. Launches a Frozen Orb forward from the caster's position, that deals xyz Frost damage to all nearby enemy targets for 8 sec. Targets damaged by the Frost Orb are slowed by 40% for 2 sec.",
+        "description": "Teaches you: Frozen Orb. \\n Frozen Orb \\n 40 sec cooldown. Launches a Frozen Orb forward from the caster's position, that deals 97 Frost damage to all nearby enemy targets for 8 sec. Targets damaged by the Frost Orb are slowed by 40% for 2 sec.",
         "quality": "legendary",
         "specs": [
           "FROST"
@@ -8239,7 +8239,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398172",
         "name": "Meteor",
         "icon": "spell_mage_meteor",
-        "description": "Teaches you: Meteor. \\n Meteor \\n 30 yd range. 45 sec cooldown. Calls down a meteor which lands at the target after 3 seconds, dealing xyz to xyz Fire damage, split evenly between all targets within 8 yards, and burns the ground, dealing Fire damage over 6 sec to all enemies in the area.",
+        "description": "Teaches you: Meteor. \\n Meteor \\n 30 yd range. 45 sec cooldown. Calls down a meteor which lands at the target after 3 seconds, dealing 595 to 661 Fire damage, split evenly between all targets within 8 yards, and burns the ground, dealing Fire damage over 6 sec to all enemies in the area.",
         "quality": "legendary",
         "specs": [
           "FIRE"
@@ -8279,7 +8279,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1573649",
         "name": "Cremation",
         "icon": "skill_icon_skill71_border",
-        "description": "Teaches you Cremation. \\n Cremation \\n 35 yard range. 2 min cooldown. Deals xyz Fire damage over 10 sec, plus 2 times the total periodic damage from your Ignite, Pyroblast, and Living Bomb effects, which are consumed. This periodic damage can critically strike.",
+        "description": "Teaches you Cremation. \\n Cremation \\n 35 yard range. 2 min cooldown. Deals 1526 Fire damage over 10 sec, plus 2 times the total periodic damage from your Ignite, Pyroblast, and Living Bomb effects, which are consumed. This periodic damage can critically strike.",
         "quality": "legendary",
         "specs": [
           "FIRE"
@@ -8316,7 +8316,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590912",
         "name": "Frost Bomb",
         "icon": "spell_mage_frostbomb",
-        "description": "Teaches you: Frost Bomb. \\n Frost Bomb \\n 30 yd range. 15 sec cooldown. 1.5 sec cast. The target becomes a Frost Bomb, exploding after 8 seconds (4 sec against players) dealing xyz Frost damage and slowing enemies within 10 yards by 40% for 2 sec. Frost damage dealt to the Frost Bomb activates it, dealing an additional 30% damage to the target and nearby enemies. Casting Frost Bomb on monsters also grants Fingers of Frost (if known).",
+        "description": "Teaches you: Frost Bomb. \\n Frost Bomb \\n 30 yd range. 15 sec cooldown. 1.5 sec cast. The target becomes a Frost Bomb, exploding after 8 seconds (4 sec against players) dealing 329 Frost damage and slowing enemies within 10 yards by 40% for 2 sec. Frost damage dealt to the Frost Bomb activates it, dealing an additional 30% damage to the target and nearby enemies. Casting Frost Bomb on monsters also grants Fingers of Frost (if known).",
         "quality": "legendary",
         "specs": [
           "FROST"
@@ -8482,7 +8482,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1567750",
         "name": "Pushing the Limit",
         "icon": "spell_fire_elementaldevastation",
-        "description": "Consuming Brain Freeze, Hot Streak or Missile Barrage increases Haste by 8% for $1567751donds.",
+        "description": "Consuming Brain Freeze, Hot Streak or Missile Barrage increases Haste by 8% for 5 sec.",
         "quality": "epic",
         "specs": [
           "FROST"
@@ -8719,7 +8719,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591029",
         "name": "Hailstorm",
         "icon": "_d3blizzard",
-        "description": "Teaches you: Hailstorm. \\n Hailstorm \\n 30 yd range. 20 sec cooldown. 2 sec cast. Ice shards pelt the target area doing xyz Frost damage over 6 sec. Scales with Blizzard modifiers",
+        "description": "Teaches you: Hailstorm. \\n Hailstorm \\n 30 yd range. 20 sec cooldown. 2 sec cast. Ice shards pelt the target area doing 172 Frost damage over 6 sec. Scales with Blizzard modifiers",
         "quality": "epic",
         "specs": [
           "FROST"
@@ -10038,7 +10038,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591097",
         "name": "Kingsbane",
         "icon": "inv_knife_1h_artifactgarona_d_02",
-        "description": "Teaches you: Kingsbane. \\ Kingsbane \\n 45 sec cooldown. Release a lethal poison from your weapons and inject it into your target, dealing xyz Nature damage instantly and xyz additional Nature damage over 12 sec. Each time you apply a Deadly, Instant or Wound Poison to a target affected by your Kingsbane, its damage increases by 10%. Awards 3 combo points.",
+        "description": "Teaches you: Kingsbane. \\ Kingsbane \\n 45 sec cooldown. Release a lethal poison from your weapons and inject it into your target, dealing 258 Nature damage instantly and 1792 additional Nature damage over 12 sec. Each time you apply a Deadly, Instant or Wound Poison to a target affected by your Kingsbane, its damage increases by 10%. Awards 3 combo points.",
         "quality": "legendary",
         "specs": [
           "ASSASSINATION"
@@ -10073,7 +10073,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180390",
         "name": "Sinister Finisher",
         "icon": "ability_rogue_surpriseattack2",
-        "description": "Using Sinister Strike grants Sinister Finisher. \\n Sinister Finisher \\n Reduces the cost of your next Eviscerate by 10 and causes it to hit an additional nearby target for 15% of the damage dealt. Stacks up to 3 and lasts $donds.",
+        "description": "Using Sinister Strike grants Sinister Finisher. \\n Sinister Finisher \\n Reduces the cost of your next Eviscerate by 10 and causes it to hit an additional nearby target for 15% of the damage dealt. Stacks up to 3 and lasts 12 sec.",
         "quality": "epic",
         "specs": [
           "COMBAT"
@@ -10162,7 +10162,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398204",
         "name": "Dispatch",
         "icon": "ability_rogue_waylay",
-        "description": "Teaches you: Dispatch. \\n Dispatch \\n 6 sec cooldown. Finishing move that cuases damage per combo point: 1 point : xyz - xyz damage. 2 points: xyz - xyz damage. 3 points: xyz - xyz damage. 4 points: xyz - xyz damage. 5 points: xyz - xyz damage. If used on a target below 35% health, your next Eviscerate or Envenom deals 20% increased damage. Dispatch does not consume combo points.",
+        "description": "Teaches you: Dispatch. \\n Dispatch \\n 6 sec cooldown. Finishing move that cuases damage per combo point: 1 point : 83 - 115 damage. 2 points: 153 - 192 damage. 3 points: 224 - 270 damage. 4 points: 294 - 347 damage. 5 points: 364 - 425 damage. If used on a target below 35% health, your next Eviscerate or Envenom deals 20% increased damage. Dispatch does not consume combo points.",
         "quality": "epic",
         "specs": [
           "ASSASSINATION"
@@ -10228,7 +10228,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1581852",
         "name": "Prison Tactics",
         "icon": "ability_skeer_bloodletting",
-        "description": "Your Shiv has an 8 second cooldown and dealing damage with Shiv extends the duration of your Adrenaline Rush by 6 seconds and grants you Prison Tactics. \\n Prison Tactics \\n Increases your attack speed by 20% for $donds.",
+        "description": "Your Shiv has an 8 second cooldown and dealing damage with Shiv extends the duration of your Adrenaline Rush by 6 seconds and grants you Prison Tactics. \\n Prison Tactics \\n Increases your attack speed by 20% for 4 sec.",
         "quality": "epic",
         "specs": [
           "COMBAT"
@@ -11298,7 +11298,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1588513",
         "name": "Doppelganger",
         "icon": "spell_nature_mirrorimage",
-        "description": "Your Vanish now spawns a Doppelganger that looks like you and runs in a random direction, taking the hits so you can get away. Lasts $1588514donds.",
+        "description": "Your Vanish now spawns a Doppelganger that looks like you and runs in a random direction, taking the hits so you can get away. Lasts 4 sec.",
         "quality": "rare",
         "specs": [
           "SUBTLETY"
@@ -11414,7 +11414,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180059",
         "name": "Stampede",
         "icon": "ability_hunter_bestialdiscipline",
-        "description": "Teaches you: Stampede. \\n Stampede \\n 2 min cooldown. Summon a herd of stampeding animals from the wilds that deals xyz Physical damage to your enemies over 6 sec. The animals run up to 30 yards in front of you. Enemies struck by the stampede take increased damage from you and your pet by 5% for 20 sec, stacking to 4. Enemies' movement speed are also reduced by 50% for 3 sec.",
+        "description": "Teaches you: Stampede. \\n Stampede \\n 2 min cooldown. Summon a herd of stampeding animals from the wilds that deals 1347 Physical damage to your enemies over 6 sec. The animals run up to 30 yards in front of you. Enemies struck by the stampede take increased damage from you and your pet by 5% for 20 sec, stacking to 4. Enemies' movement speed are also reduced by 50% for 3 sec.",
         "quality": "legendary",
         "specs": [
           "BEASTMASTERY"
@@ -11424,7 +11424,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398205",
         "name": "Barbed Shot",
         "icon": "ability_hunter_barbedshot",
-        "description": "Teaches you: Barbed Shot. \\n Barbed Shot \\n 35 yd range. 2 Charges. 10 sec recharge. Fire a shot that tears through your enemy, causing them to bleed for xyz Physical damage over 8 sec. This sends your pet into a frenzy, increasing the attack speed by 10% for 8 sec, stacking up to 3 times.",
+        "description": "Teaches you: Barbed Shot. \\n Barbed Shot \\n 35 yd range. 2 Charges. 10 sec recharge. Fire a shot that tears through your enemy, causing them to bleed for 679 Physical damage over 8 sec. This sends your pet into a frenzy, increasing the attack speed by 10% for 8 sec, stacking up to 3 times.",
         "quality": "legendary",
         "specs": [
           "BEASTMASTERY"
@@ -11470,7 +11470,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591051",
         "name": "Flare Strike",
         "icon": "_diablo3_arrowrain_rogue",
-        "description": "Teaches you: Flare Strike. \\n Flare Strike \\n 35 yd range. 40 sec cooldown. Fire a flare that exposes any hidden and invisible enemies within 10 yards for 2 sec. When it expires, a rain of arrows is called down, dealing xyz Fire damage. Enemies hit are slowed by 30% and take 10% more damage from you for 15 sec. The damage is increased by 25% on the target of your Hunter's Mark.",
+        "description": "Teaches you: Flare Strike. \\n Flare Strike \\n 35 yd range. 40 sec cooldown. Fire a flare that exposes any hidden and invisible enemies within 10 yards for 2 sec. When it expires, a rain of arrows is called down, dealing 122 Fire damage. Enemies hit are slowed by 30% and take 10% more damage from you for 15 sec. The damage is increased by 25% on the target of your Hunter's Mark.",
         "quality": "legendary",
         "specs": [
           "MARKSMANSHIP",
@@ -11717,7 +11717,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1586808",
         "name": "Trick Shots",
         "icon": "epic_rpg_icon_pack_brutal_icon_0011s_0000_arrows_border",
-        "description": "Multi-Shot grants you Trick Shot, which causes your next Arcane Shot or Quick Shot to ricochet to 4 additional targets and are guaranteed to critically strike. Lasts $1586809donds.",
+        "description": "Multi-Shot grants you Trick Shot, which causes your next Arcane Shot or Quick Shot to ricochet to 4 additional targets and are guaranteed to critically strike. Lasts 8 sec.",
         "quality": "epic",
         "specs": [
           "MARKSMANSHIP"
@@ -11777,7 +11777,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591030",
         "name": "Rain of Arrows",
         "icon": "ability_marksmanship",
-        "description": "Teaches you: Rain of Arrows. \\n Rain of Arrows \\n 35 yd range. 20 sec cooldown. Continously fires a volley of ammo at the target area, causing xyz Arcane damage to the enemy targets within 8 yards every second for 6 sec.",
+        "description": "Teaches you: Rain of Arrows. \\n Rain of Arrows \\n 35 yd range. 20 sec cooldown. Continously fires a volley of ammo at the target area, causing 57 Arcane damage to the enemy targets within 8 yards every second for 6 sec.",
         "quality": "epic",
         "specs": [
           "MARKSMANSHIP"
@@ -11787,7 +11787,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591156",
         "name": "Black Widow Strike",
         "icon": "epic_rpg_icon_pack_poison_icon_0001s_0000_spider_border",
-        "description": "Transforms your Black Arrow into Black Widow Strike. This ability scales from your Black Arrow modifiers. \\ Black Widow Strike \\n 30 sec cooldown. A poisonous strike, increasing all damage done by you to the target by 8% and dealing xyz Physical damage and an additional xyz Nature damage every 3 seconds for 15 sec.",
+        "description": "Transforms your Black Arrow into Black Widow Strike. This ability scales from your Black Arrow modifiers. \\ Black Widow Strike \\n 30 sec cooldown. A poisonous strike, increasing all damage done by you to the target by 8% and dealing 322 Physical damage and an additional 154 Nature damage every 3 seconds for 15 sec.",
         "quality": "epic",
         "specs": [
           "SURVIVAL"
@@ -12836,7 +12836,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398360",
         "name": "Heroic Leap",
         "icon": "ability_heroicleap",
-        "description": "Teaches you: Heroic Leap. \\n Heroic Leap \\n 30 yd range. 45 sec cooldown. Leap through the air toward a target location, slamming down with a destructive force to deal xyz Physical damage to all enemies within 8 yards.",
+        "description": "Teaches you: Heroic Leap. \\n Heroic Leap \\n 30 yd range. 45 sec cooldown. Leap through the air toward a target location, slamming down with a destructive force to deal 261 Physical damage to all enemies within 8 yards.",
         "quality": "artifact",
         "specs": [
           "FURY"
@@ -12972,7 +12972,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590910",
         "name": "Dragon Roar",
         "icon": "ability_warrior_dragonroar",
-        "description": "Reduces the cooldown of your Whirlwind by 2 sec. Teaches you: Dragon Roar. \\n Dragon Roar \\n 30 sec cooldown. Roar explosively, dealing xyz Physical damage to nearby enemies and reducing their movement speed by 60% for 2 sec. Using Dragon Roar resets the cooldown of Whirlwind.",
+        "description": "Reduces the cooldown of your Whirlwind by 2 sec. Teaches you: Dragon Roar. \\n Dragon Roar \\n 30 sec cooldown. Roar explosively, dealing 1130 Physical damage to nearby enemies and reducing their movement speed by 60% for 2 sec. Using Dragon Roar resets the cooldown of Whirlwind.",
         "quality": "legendary",
         "specs": [
           "FURY"
@@ -12982,7 +12982,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590930",
         "name": "Storm Bolt",
         "icon": "warrior_talent_icon_stormbolt",
-        "description": "Teaches you: Storm Bolt. \\n Storm Bolt \\n 30 yd range. 40 sec cooldown. Hurl your weapon at an enemy, causing 150% weapon damage, stunning the target for 3 sec and electrifying the ground, dealing xyz Nature damage to nearby enemies. If the target is a monster you also take 8% reduced damage and your Thunder Clap gains 50% increased critical strike chance for 20 sec.",
+        "description": "Teaches you: Storm Bolt. \\n Storm Bolt \\n 30 yd range. 40 sec cooldown. Hurl your weapon at an enemy, causing 150% weapon damage, stunning the target for 3 sec and electrifying the ground, dealing 103 Nature damage to nearby enemies. If the target is a monster you also take 8% reduced damage and your Thunder Clap gains 50% increased critical strike chance for 20 sec.",
         "quality": "legendary",
         "specs": [
           "PROTECTION"
@@ -13412,7 +13412,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1586195",
         "name": "Master of Arms",
         "icon": "ability_bastion_rogue",
-        "description": "After using Overpower, Slam or Execute your next Mortal Strike deals 15% increased damage. Stacks up to 2. Lasts $1586196donds. Increases your armor penetration rating by 8% of your Strength.",
+        "description": "After using Overpower, Slam or Execute your next Mortal Strike deals 15% increased damage. Stacks up to 2. Lasts 15 sec. Increases your armor penetration rating by 8% of your Strength.",
         "quality": "epic",
         "specs": [
           "ARMS"
