@@ -10,7 +10,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398191",
         "name": "Ursol's Vortex",
         "icon": "spell_druid_ursolsvortex",
-        "description": "Teaches you: Ursol's Vortex.",
+        "description": "Teaches you: Ursol's Vortex. \\n Ursol's Vortex \\n 40 sec cooldown. Conjures a vortex of wind for 8 sec around yourself, reducing the movement speed of all enemies within 5 yards by 30%. When an enemy leaves the vortex, winds will pull the enemy back to its center. Enemies can only get pulled from any vortext once every 8 seconds. This ability is usable while shapeshifted.",
         "quality": "artifact",
         "specs": [
           "FERAL"
@@ -20,7 +20,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398192",
         "name": "Mass Entanglement",
         "icon": "spell_nature_stranglevines",
-        "description": "Teaches you: Mass Entanglement.",
+        "description": "Teaches you: Mass Entanglement. \\n Mass Entanglement \\n 25 yd range. 35 sec cooldown. Roots the target and all enemies within 8 yards in place for 8 sec. Damage may interrupt the effect. Usable while shapeshifted.",
         "quality": "artifact",
         "specs": [
           "BALANCE"
@@ -30,7 +30,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398193",
         "name": "Stampeding Roar",
         "icon": "spell_druid_stampedingroar_cat",
-        "description": "Teaches you: Stampeding Roar.",
+        "description": "Teaches you: Stampeding Roar. \\n Stampeding Roar \\n 1.5 min cooldown. You roar, increasing the movement speed of all party members within 20 yards by 60% for 6 sec. Does not break prowling.",
         "quality": "artifact",
         "specs": [
           "FERAL"
@@ -40,7 +40,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398202",
         "name": "Solar Beam",
         "icon": "ability_vehicle_sonicshockwave",
-        "description": "Teaches you: Solar Beam.",
+        "description": "Teaches you: Solar Beam. \\n Solar Beam \\n 30 yd range. 1 min cooldown. You summon a beam of solar light, silencing all enemies under the beam while it is active. Solar Beam lasts for 6 sec.",
         "quality": "artifact",
         "specs": [
           "BALANCE"
@@ -50,7 +50,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1567850",
         "name": "Stonebark",
         "icon": "spell_druid_ironbark",
-        "description": "Teaches you: Stonebark",
+        "description": "Teaches you: Stonebark. \\n Stonebark \\n 40 yd range. 1.5 min cooldown. Reduces all damage taken on the target by 20%, increases resistance to Dispel mechanics by 50% and increases healing taken from Healing over Time effects by 40% from the caster for 8 sec.",
         "quality": "artifact",
         "specs": [
           "RESTORATION"
@@ -108,7 +108,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180140",
         "name": "Touch of Elune",
         "icon": "spell_holy_elunesgrace",
-        "description": "Teaches you: Touch of Elune.",
+        "description": "Teaches you: Touch of Elune. \\n Touch of Elune \\n 30 yd range. 1 min cooldown. Place the Touch of Elune on an enemy. All damage dealt by your Wrath, Starfire and Starsurge spells to other targets will damage the enemy marked by your Touch of Elune. Lasts for 15 sec. While Touch of Elune is active on any enemy, all damage you deal to any target is increased by 15%.",
         "quality": "legendary",
         "specs": [
           "BALANCE"
@@ -118,7 +118,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180220",
         "name": "Incarnation: King of the Jungle",
         "icon": "spell_druid_incarnation",
-        "description": "Teaches you: Incarnation: King of the Jungle.",
+        "description": "Teaches you: Incarnation: King of the Jungle. \\n Incarnation: King of the Jungle \\n 1 min cooldown. Your cat form is empowered for 15 sec. Mangle (Cat) and Shred causes an additional swiping attack, dealing damage to enemies within 5 yards. Ferocious Bite extends Rip to its full duration.",
         "quality": "legendary",
         "specs": [
           "FERAL"
@@ -128,7 +128,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180240",
         "name": "Feral Frenzy",
         "icon": "artifactability_feraldruid_ashamanesbite",
-        "description": "Teaches you: Feral Frenzy.",
+        "description": "Teaches you: Feral Frenzy. \\n Feral Frenzy \\n 5 yd range. 25 sec cooldown. Requires Cat Form (Shapeshift). Unleash a furious frenzy, clawing your target 5 times over 1.50 seconds for 50% weapon damage and applying a bleed which stacks up to 5 times and lasts for 10 sec. Awards 1 combo point.",
         "quality": "legendary",
         "specs": [
           "FERAL"
@@ -158,7 +158,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1186386",
         "name": "Efflorescence",
         "icon": "inv_misc_herb_talandrasrose",
-        "description": "Teaches you: Efflorescence",
+        "description": "Teaches you: Efflorescence \\n Efflorescence \\n 1 min cooldown. Grows a healing blossom at the target location, increasing healing taken by 15% and restoring xyz health to allies within 10 yards every 2 sec for 10 sec. Also applies Rejuvenation to up to 5 targets.",
         "quality": "legendary",
         "specs": [
           "RESTORATION"
@@ -181,7 +181,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398180",
         "name": "Ironfur",
         "icon": "ability_druid_ironfur",
-        "description": "Teaches you: Ironfur. \\n Ironfur \\n |cffffffff3 Charges 10 sec recharge|r Grants 10 Rage and reduces damage taken by 4% plus an additional 4% per stack. Lasts $2110101donds. Stacks up to 3.",
+        "description": "Teaches you: Ironfur. \\n Ironfur \\n 3 Charges. 10 sec recharge. Grants 10 Rage and reduces damage taken by 4% plus an additional 4% per stack. Lasts 6 sec. Stacks up to 3.",
         "quality": "legendary",
         "specs": [
           "FERAL"
@@ -214,7 +214,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1570238",
         "name": "Nature's Fervor",
         "icon": "inv_misc_summerfest_braziergreen",
-        "description": "Requires \\n Infected Wounds\\n Your Thrash ability now has a 9 second cooldown grants Nature's Fervor. \\n Nature's Fervor \\n Faerie Fire grants 8% increased agility for $1570286donds. Swipe generates double threat and procs the last rank of Infected Wounds (if known). Growl generates significant threat, applies Demoralizing Roar and only triggers a 1 second cooldown.",
+        "description": "Requires \\n Infected Wounds\\n Your Thrash ability now has a 9 second cooldown grants Nature's Fervor. \\n Nature's Fervor \\n Faerie Fire grants 8% increased agility for 10 sec. Swipe generates double threat and procs the last rank of Infected Wounds (if known). Growl generates significant threat, applies Demoralizing Roar and only triggers a 1 second cooldown.",
         "quality": "legendary",
         "specs": [
           "FERAL"
@@ -260,7 +260,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1590982",
         "name": "Carnage Incarnate",
         "icon": "spell_druid_bearhug",
-        "description": "Teaches you: Carnage Incarnate.",
+        "description": "Teaches you: Carnage Incarnate. \\n Carnage Incarnate \\n 45 sec cooldown. Encase yourself in blood and bones, reducing physical damage taken by 10% and dealing xyz physical damage to nearby enemies and healing your for xyz for 55 every second. Lasts for 8 sec.",
         "quality": "legendary",
         "specs": [
           "FERAL"
@@ -270,7 +270,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591060",
         "name": "Spirit of the Forest",
         "icon": "ability_druid_replenish",
-        "description": "Teaches you: Spirit of the Forest.",
+        "description": "Teaches you: Spirit of the Forest. \\n Spirit of the Forest \\n 1 min cooldown. Imbues you with the Spirit of the Forest for 20 sec, reducing the cooldown of Wild Growth by 50%, the mana cost of Lifebloom by 50%, and causes your Rejuvenation to also instantly heal your ally for 150.",
         "quality": "legendary",
         "specs": [
           "RESTORATION"
@@ -280,7 +280,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591061",
         "name": "Sunfire",
         "icon": "ability_mage_firestarter",
-        "description": "Teaches you: Sunfire.",
+        "description": "Teaches you: Sunfire. \\n Sunfire \\n 30 yd range. 10 sec cooldown. Burns your target and 4 additional targets within 8 yards, dealing xyz to xyz Firestorm damage and xyz additional damage over 15 sec. Sunfire also increases the periodic damage from Moonfire and Insect Swarm by 15% per target hit for its duration.",
         "quality": "legendary",
         "specs": [
           "BALANCE"
@@ -726,7 +726,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591150",
         "name": "Localized Storm",
         "icon": "spell_nature_cyclone",
-        "description": "Teaches you: Localized Storm.",
+        "description": "Teaches you: Localized Storm. \\n Localized Storm \\n 30 yd range. 12 sec cooldown. 2 sec cast. Summon a violent storm in the target area for 6 sec, dealing 65 Nature damage to enemies every second, reducing the attack speed of enemies by 20%.",
         "quality": "epic",
         "specs": [
           "BALANCE"
