@@ -6507,7 +6507,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398195",
         "name": "Unending Resolve",
         "icon": "spell_shadow_demonictactics",
-        "description": "Teaches you: Unending Resolve.",
+        "description": "Teaches you: Unending Resolve. \\n Unending Resolve \\n 2 min cooldown. Hardens your skin, reducing all damage taken by 30% and granting immunity to interrupt, silence, and pushback effects for 8 sec.",
         "quality": "artifact",
         "specs": [
           "DEMONOLOGY"
@@ -6517,7 +6517,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398197",
         "name": "Blood Horror",
         "icon": "ability_deathwing_bloodcorruption_earth",
-        "description": "Teaches you: Blood Horror.",
+        "description": "Teaches you: Blood Horror. \\n Blood Horror \\n 40 sec cooldown. While channeling, encases yourself in a barrier of blood, making you immune to silence, stun and interrupt effects. Any time an enemy within 25 yards deals non-periodic damage to you, you drain their health and cause them to run in horror for 4 sec.",
         "quality": "artifact",
         "specs": [
           "AFFLICTION"
@@ -6527,7 +6527,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398200",
         "name": "Demonic Leap",
         "icon": "ability_demonhunter_glide",
-        "description": "Teaches you: Demonic Leap.",
+        "description": "Teaches you: Demonic Leap. \\n Demonic Leap \\n 40 sec cooldown. Leap into the air upon demonic wings, moving a short distance. If you reactivate it within 1 sec you will leap again.",
         "quality": "artifact",
         "specs": [
           "DEMONOLOGY"
@@ -6537,7 +6537,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398207",
         "name": "Soul Swap",
         "icon": "ability_warlock_soulswap",
-        "description": "Teaches you: Soul Swap.",
+        "description": "Teaches you: Soul Swap. \\n Soul Swap \\n 30 yd range. 25 sec cooldown. You copy your Corruption, Curse of Agony and Unstable Affliction effects from the target. For 5 sec afterwards, the next time you cast Soul Swap: Exhale on will be afflicted by the copied damage-over-time effects. You cannot Soul Swap to the same target.",
         "quality": "artifact",
         "specs": [
           "AFFLICTION"
@@ -6589,7 +6589,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180019",
         "name": "Bane of Havoc",
         "icon": "ability_warlock_baneofhavoc",
-        "description": "Teaches you: Bane of Havoc.",
+        "description": "Teaches you: Bane of Havoc. \\n Bane of Havoc \\n 30 yd range. 35 sec cooldown. Curses the ground with a demonic bane, causing your Shadow Bolt, Incinerate, Soul Fire and Chaos Bolt spells to also strike targets marked with the bane for 50% of the damage dealt and have 15% increased critical strike chance. Lasts 15 sec.",
         "quality": "legendary",
         "specs": [
           "DESTRUCTION"
@@ -6599,7 +6599,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1180440",
         "name": "Nether Portal",
         "icon": "inv_netherportal",
-        "description": "Teaches you: Nether Portal.",
+        "description": "Teaches you: Nether Portal. \\n Nether Portal \\n 2 min cooldown. Tear open a portal to the Twisting Nether for 30 sec. Casting Shadow Bolt, Soul Fire or Incinerate summons a demon to fight for you. During Decimation your Soul Fire summons an additional demon.",
         "quality": "legendary",
         "specs": [
           "DEMONOLOGY"
@@ -6629,7 +6629,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398159",
         "name": "Soul Harvest",
         "icon": "spell_warlock_demonsoul",
-        "description": "Teaches you: Soul Harvest.",
+        "description": "Teaches you: Soul Harvest. \\n Soul Harvest \\n 2 min cooldown. Increases your magic damage and your pets' damage by 15%. Lasts 6 sec, increased by 3 sec for each target afflicted by your Corruption, Curse of Agony and Immolate up to a maximum of 24 sec. Does not stack with other similar effects.",
         "quality": "legendary",
         "specs": [
           "DEMONOLOGY"
@@ -6639,7 +6639,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398164",
         "name": "Enslave Demon",
         "icon": "spell_warlock_demonbolt",
-        "description": "Teaches you how to permanently Enslave Demons.",
+        "description": "Teaches you how to permanently Enslave Demons. \\n Enslave Demon \\n 30 yd range. Begins enslaving a demon to be your companion. Your armor is reduced by 100% while you focus on taming the demon for 20 sec. If you lose the demon's attention for any reason, then enslaving process will fail. Each type of demon has unique abilities that you will be able to make use of.",
         "quality": "legendary",
         "specs": [
           "DEMONOLOGY",
@@ -6651,7 +6651,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398206",
         "name": "Hand of Gul'dan",
         "icon": "ability_warlock_handofguldan",
-        "description": "Teaches you: Hand of Gul'dan.",
+        "description": "Teaches you: Hand of Gul'dan. \\n Hand of Gul'dan \\n 30 yd range. 30 sec cooldown. 2 sec cast. Calls down a demonic meteor dealing xyz Shadowflame damage to enemies within 5 yards and summons 4 Wild Imps which burst forth and attack the target for 12 sec.",
         "quality": "legendary",
         "specs": [
           "DEMONOLOGY"
@@ -6694,7 +6694,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1572059",
         "name": "Shadow Crash",
         "icon": "_seed_shadow",
-        "description": "Teaches you: Shadow Crash.",
+        "description": "Teaches you: Shadow Crash. \\n Shadow Crash \\n 30 yd range. 30 sec cooldown. Hurl a bolt of slow-moving Shadow energy at the destination, dealing Shadow damage to enemies within 8 yards, pulling them towards the center of the explosion and slowing them by 70% for 3 sec.",
         "quality": "legendary",
         "specs": [
           "DESTRUCTION"
@@ -6821,7 +6821,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1398246",
         "name": "Soul Link",
         "icon": "spell_shadow_gathershadows",
-        "description": "Teaches you: Soul Link. Can not be used if the Soul Link talent is learned.",
+        "description": "Teaches you: Soul Link. Can not be used if the Soul Link talent is learned. \\n Soul Link \\n When active, 20% of all damage taken by the caster is taken by your Imp, Voidwalker, Succubus, Felhunter, Felguard or enslaved demon instead. That damage cannot be prevented. Lasts as long as the demon is active.",
         "quality": "epic",
         "specs": [
           "DEMONOLOGY"
@@ -7082,7 +7082,7 @@ export const ascensionGlyphs: AscensionGlyphsData = {
         "id": "1591031",
         "name": "Fire Storm",
         "icon": "ability_ironmaidens_rapidfire",
-        "description": "Teaches you: Fire Storm.",
+        "description": "Teaches you: Fire Storm. \\n Fire Storm \\n 30 yd range. 20 sec cooldown. Calls down a fiery rain to burn enemies in the area of effect for xyz Fire damage over 6 sec.",
         "quality": "epic",
         "specs": [
           "DESTRUCTION"
